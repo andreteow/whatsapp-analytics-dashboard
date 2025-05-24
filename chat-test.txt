@@ -1,0 +1,2087 @@
+[2025-03-11, 11:59:07] Build with AI: ‎Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them.
+[2025-03-11, 11:59:07] Daniel Cerventus Lim: ‎Daniel Cerventus Lim created this group
+[2025-03-22, 12:18:58] Build with AI: ‎You joined using this group's invite link
+[2025-03-22, 12:19:01] Maverick Foo: ‎Your security code with Maverick changed.
+[2025-03-22, 12:19:01] ~ Eason Chai - ELVTD: ‎Your security code with ‪+60 16‑295 8640‬ changed.
+[2025-03-22, 12:19:01] Tze Jin Shee: ‎Your security code with Tze Jin changed.
+[2025-03-22, 12:19:01] ~ Z: ‎Your security code with ‪+60 17‑674 3974‬ changed.
+‎[2025-03-22, 12:33:51] Tze Jin Shee: ‎image omitted
+[2025-03-22, 12:36:42] Daniel Cerventus Lim: Hi Andre. 
+
+Welcome
+[2025-03-22, 12:37:05] Daniel Cerventus Lim: https://kuala-lumpur.aitinkerers.org/p/aitkl-10-ai-assisted-development
+[2025-03-22, 12:37:12] Daniel Cerventus Lim: If you free come join us
+[2025-03-22, 12:39:47] andre: Hi all. Thanks @60136353888 for inviting me
+[2025-03-22, 12:41:24] andre: The startup I co-founded got acquired 2 years ago so I’m exploring new projects to build from the ground up once again 😊
+[2025-03-22, 12:41:59] andre: Been researching and tinkering with AI since then
+[2025-03-23, 22:18:43] Daniel Cerventus Lim: https://www.instagram.com/reel/DHWR-BPR7f5/?igsh=MWRjcHI4ZHppajJ5eA==
+[2025-03-23, 22:26:44] ~ Z: dont use open ai to code 😂
+[2025-03-25, 15:25:37] andre: I’m thinking of organising a community workshop that brings together non techies to come together to build their first app. What do you all think ?
+[2025-03-25, 15:31:18] Tze Jin Shee: My 2cent. Don’t.
+[2025-03-25, 15:31:48] Tze Jin Shee: Ai not there yet. Don’t want to be free labor plus give ppl false hope
+[2025-03-25, 15:41:29] andre: Hmm … it’s perfectly feasible to build apps today with current tech. Not positioning this as formal training. More like informal community get together. Thinking 5-10 people
+[2025-03-25, 15:49:47] Daniel Cerventus Lim: Onz
+[2025-03-25, 15:50:55] ~ Z: Kinda agree 
+Need to guide them properly
+[2025-03-25, 15:51:10] ~ Z: Btw DeepSeek V3 has been updated 
+Apparently can code better 
+Yet to try
+[2025-03-25, 16:39:26] andre: I'll share this in the fb group to gauge interest. https://tally.so/r/w7EK5R ‎<This message was edited>
+‎[2025-03-25, 20:39:34] Tze Jin Shee: ‎image omitted
+[2025-03-25, 20:39:52] Tze Jin Shee: tried deepseek v3 0324
+[2025-03-25, 20:40:10] Tze Jin Shee: really good :D
+[2025-03-25, 20:40:18] Tze Jin Shee: okay, no need sub claude d
+[2025-03-25, 20:51:36] ~ Z: Wah
+[2025-03-25, 20:51:48] ~ Z: 2 weeks I haven’t use my pc
+[2025-03-25, 20:52:00] ~ Z: 😓
+[2025-03-25, 20:52:13] ~ Z: Too busy with setting up Wife Photo Studio
+[2025-03-25, 20:52:17] Tze Jin Shee: is okay, u wait until R2 come out haha
+[2025-03-25, 20:52:33] Tze Jin Shee: and then buy a m3 ultra mac studio run locally to save the credit haha
+[2025-03-25, 20:53:19] Tze Jin Shee: any local agentic tool u guy use?
+[2025-03-25, 20:53:25] Tze Jin Shee: open webui really meh
+‎[2025-03-25, 20:53:37] ~ Z: ‎image omitted
+‎[2025-03-25, 20:53:37] ~ Z: ‎image omitted
+‎[2025-03-25, 20:53:41] ~ Z: ‎video omitted
+[2025-03-25, 20:53:44] ~ Z: Oooo
+[2025-03-25, 20:54:25] ~ Z: Have you tried lm studio
+[2025-03-25, 20:54:55] Tze Jin Shee: i using lm studio on mac
+[2025-03-25, 20:55:07] Tze Jin Shee: the best mlx model launcher
+[2025-03-25, 20:55:28] Tze Jin Shee: ollama really stuggle on non gguf model;
+[2025-03-25, 23:41:46] ~ Z: https://youtu.be/AaCnBOqyvIM?si=9Hp4v9Ho2o9_YHXe
+[2025-03-26, 00:02:47] Tze Jin Shee: hahah vercel and security hahahahaha
+[2025-03-26, 00:02:55] Tze Jin Shee: the S in vercel stand for security
+[2025-03-26, 11:56:04] ~ longlife: ‎~ longlife joined using this group's invite link
+[2025-03-26, 11:56:35] ~ longlife: Cheers for the invite Daniel -Nice to meet all of you. My name is Giri and i love automation 🙂 ‎<This message was edited>
+[2025-03-26, 11:57:47] Daniel Cerventus Lim: Meet Giri from Perak
+[2025-03-26, 11:58:16] Daniel Cerventus Lim: This is still a small group to compare notes on building with AI
+[2025-03-26, 11:59:46] ~ longlife: Thanks Daniel. Happy to share chat and learn and do cool stuff.
+[2025-03-26, 16:34:36] ~ longlife: https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/how-an-ai-enabled-software-product-development-life-cycle-will-fuel-innovation
+[2025-03-27, 07:36:45] Daniel Cerventus Lim: https://youtu.be/lCbhobY6pKI?si=sSAoxJqjC3_rDLBB
+[2025-03-27, 08:03:59] Daniel Cerventus Lim: https://youtu.be/XcVj8zzK4ss?si=c_3qnGDEdNjrpYYR
+[2025-03-27, 10:12:17] ~ Z: https://youtu.be/Tw18-4U7mts?si=blBGqH5cFBFqEms7
+[2025-03-27, 10:14:28] ~ Z: Don’t let your LLM get creative 
+
+Make your LLM as deterministic as possible
+[2025-03-27, 10:17:53] Tze Jin Shee: OpenAI finally add mcp to all the product options
+[2025-03-27, 10:18:06] ~ Z: Nice
+[2025-03-27, 18:56:12] andre: https://www.latent.space/p/why-mcp-won?utm_campaign=post&utm_medium=web
+[2025-03-27, 18:57:51] Tze Jin Shee: Honestly. As a security guy. I don’t like how current MCP is implement.
+‎[2025-03-28, 19:17:15] Daniel Cerventus Lim: ‎image omitted
+‎[2025-03-28, 19:17:16] Daniel Cerventus Lim: ‎image omitted
+‎[2025-03-28, 19:17:17] Daniel Cerventus Lim: ‎image omitted
+‎[2025-03-28, 19:17:17] Daniel Cerventus Lim: ‎image omitted
+‎[2025-03-28, 19:17:18] Daniel Cerventus Lim: ‎image omitted
+‎[2025-03-28, 19:17:20] Daniel Cerventus Lim: ‎image omitted
+‎[2025-03-28, 19:17:20] Daniel Cerventus Lim: ‎image omitted
+‎[2025-03-28, 19:17:23] Daniel Cerventus Lim: ‎image omitted
+‎[2025-03-28, 19:17:25] Daniel Cerventus Lim: ‎image omitted
+‎[2025-03-28, 19:17:27] Daniel Cerventus Lim: ‎image omitted
+‎[2025-03-28, 19:17:29] Daniel Cerventus Lim: ‎image omitted
+‎[2025-03-28, 19:17:31] Daniel Cerventus Lim: ‎image omitted
+‎[2025-03-28, 19:17:33] Daniel Cerventus Lim: ‎image omitted
+‎[2025-03-28, 19:17:35] Daniel Cerventus Lim: ‎image omitted
+‎[2025-03-28, 19:17:37] Daniel Cerventus Lim: ‎image omitted
+‎[2025-03-28, 19:17:40] Daniel Cerventus Lim: ‎image omitted
+‎[2025-03-28, 19:17:40] Daniel Cerventus Lim: ‎image omitted
+‎[2025-03-28, 19:17:41] Daniel Cerventus Lim: ‎image omitted
+‎[2025-03-28, 19:17:42] Daniel Cerventus Lim: ‎image omitted
+‎[2025-03-28, 19:17:42] Daniel Cerventus Lim: ‎image omitted
+‎[2025-03-28, 19:17:43] Daniel Cerventus Lim: ‎image omitted
+[2025-03-28, 19:25:05] andre: Thanks for sharing !
+[2025-03-28, 19:25:31] Daniel Cerventus Lim: You tried tempo?
+[2025-03-28, 19:25:41] andre: Yes
+[2025-03-28, 19:25:50] Daniel Cerventus Lim: What you think?
+[2025-03-28, 19:26:00] Daniel Cerventus Lim: Looks wise I kinda prefer tempo
+[2025-03-28, 19:26:44] andre: It’s good for team development. That’s its biggest differentiator
+[2025-03-28, 19:27:34] Daniel Cerventus Lim: Seem so
+[2025-03-28, 21:42:14] Daniel Cerventus Lim: https://youtu.be/GxclZ62-KoM?si=YUbV-mnazVacjN4G
+[2025-03-28, 21:46:23] Tze Jin Shee: Nah
+[2025-03-28, 21:47:39] Daniel Cerventus Lim: Hahaha
+[2025-03-28, 21:47:40] Tze Jin Shee: The comparison is hand picked
+[2025-03-28, 21:47:47] ~ Z: Yup
+[2025-03-28, 21:48:00] Daniel Cerventus Lim: I don’t know why I keep hearing Gemini is amazing
+[2025-03-28, 21:48:02] Tze Jin Shee: Is just Qwen level.
+[2025-03-28, 21:48:14] Tze Jin Shee: A lot ppl are google fanboi
+[2025-03-28, 21:48:20] Tze Jin Shee: Plus is free.
+[2025-03-28, 21:48:22] Daniel Cerventus Lim: Eh Qwen is better imho
+[2025-03-28, 21:48:43] Tze Jin Shee: Qwen multi modal still lacking
+[2025-03-28, 21:48:55] Tze Jin Shee: Google have better front processing
+[2025-03-28, 21:49:14] ~ Z: Only good thing about Google is large context window
+[2025-03-28, 21:49:16] Tze Jin Shee: That why Qwen need to do many other model for each specific task
+[2025-03-28, 21:49:28] Tze Jin Shee: Only on API
+[2025-03-28, 21:49:38] Tze Jin Shee: And it tend to forgot too.
+[2025-03-28, 21:49:42] ~ Z: Oh
+[2025-03-28, 21:49:57] ~ Z: https://youtu.be/AwZ8PtoqCeU?si=bOxe7QMA3SWX1xga
+
+Got watch this?
+[2025-03-28, 21:50:09] Tze Jin Shee: U try input a full pdf and ask 10 question.
+[2025-03-28, 21:50:22] Tze Jin Shee: Last time I did that. 2 out of 10 is fake data
+[2025-03-28, 21:50:34] Tze Jin Shee: The pdf need to be large size
+[2025-03-28, 21:50:47] Tze Jin Shee: I think they do some funny math on the token windows
+[2025-03-28, 21:50:53] Tze Jin Shee: Definitely not full token
+[2025-03-28, 21:55:20] ~ Z: Oh
+[2025-03-28, 21:55:21] Daniel Cerventus Lim: ‎This message was deleted.
+[2025-03-28, 21:57:36] Tze Jin Shee: This is my exp on 1.5 pro la
+[2025-03-28, 21:57:43] Tze Jin Shee: Haven’t try the 2.5
+[2025-03-28, 22:11:49] ~ Z: Have anyone tried the gpt4o image gen?
+[2025-03-28, 22:26:36] ~ Eason Chai - ELVTD: Yup I tested it out
+‎[2025-03-28, 22:30:05] andre: ‎image omitted
+‎[2025-03-28, 22:30:15] andre: ‎image omitted
+[2025-03-28, 22:30:38] andre: It’s miles better than dall-e
+[2025-03-28, 22:31:12] ~ Z: Wah
+[2025-03-28, 22:31:50] Tze Jin Shee: Better than Google imagen too
+[2025-03-28, 22:32:06] Tze Jin Shee: Is like flux without needed to do lora
+[2025-03-28, 22:32:47] ~ Eason Chai - ELVTD: It’s the details that it can capture that makes it so mind blowing
+[2025-03-28, 22:40:34] ~ longlife: If anyone keen to share may I know problems / project are you solving with ai that you personally are  currently working on ‎<This message was edited>
+[2025-03-28, 22:41:55] Tze Jin Shee: Ai salesman copilot
+[2025-03-28, 22:44:25] ~ longlife: Thanks Jin
+[2025-03-28, 22:44:45] ~ longlife: Is it for public use / purchase
+[2025-03-28, 22:45:17] andre: WhatsApp subscription bot
+[2025-03-28, 22:46:01] andre: Not AI. But let’s people set monthly subscription fees for joining WhatsApp groups
+[2025-03-28, 22:46:38] andre: _subscribe to my group for exclusive access_ ⭐️🧡🖤
+[2025-03-28, 22:54:43] Tze Jin Shee: Basically act as a senior salesman to guide newbie how to close a sales by transcribing call and meeting with client
+[2025-03-29, 07:06:01] Tze Jin Shee: https://youtu.be/nwIZ5VI3Eus?si=OGnD4QWB1NDd2K0B
+[2025-03-29, 08:06:35] Tze Jin Shee: One thing I notice from the GPT4 imagen
+[2025-03-29, 08:06:42] Tze Jin Shee: Is not diffusion model.
+[2025-03-29, 08:07:05] Tze Jin Shee: This seem like a auto regressive model
+[2025-03-29, 09:18:52] ~ Z: Ya not diffusion
+[2025-03-29, 09:19:02] Tze Jin Shee: The more I know, the less I know. It seem like AI world is similar to physic world as well, the real beauty is finding that one Omni model (the math formula that solve everything)
+[2025-03-29, 09:19:51] Tze Jin Shee: Once the parameter hit a range, those specialize model actually perform worse than that Omni model.
+[2025-03-29, 09:20:09] Tze Jin Shee: Argh shit. This mean gonna buy more Nvidia stock.
+‎[2025-03-29, 17:56:05] ~ Z: ‎image omitted
+[2025-03-29, 19:52:07] Tze Jin Shee: Is call reflection.
+[2025-04-03, 11:52:24] Daniel Cerventus Lim: https://youtu.be/lyGXumMboV4?si=lqLjeAMUOwxjdBC0
+‎[2025-04-03, 11:52:42] Daniel Cerventus Lim: ‎image omitted
+[2025-04-03, 11:56:43] Daniel Cerventus Lim: quite good
+[2025-04-03, 11:57:10] Daniel Cerventus Lim: Here is the prompt for yoou to try 
+
+
+I want to create a job directory for Java AI jobs. All jobs must require Java as the main skill, along with any AI development skills related to LLMs, RAG, prompt engineering, generative ai, etc.
+
+Most AI jobs require Python. But I know that as AI advances, it will penetrate the Java market as well...and this directory will be needed. At least that's what I think.
+
+This developer relations job directory (https://devrelcareers.com/) is a great example of what I'm going for (screenshots attached). I'd be happy if we can completely copy the functionality of this directory as our MVP. For this first version, let's focus on these minimum features: homepage with job listings, job detail page, and simple filtering. We can add more complexity later. I'm open to your expertise in making our directory the best for our users. Make the directory design simple, modern, seamless.
+
+Please use React with TypeScript and Tailwind CSS for styling. Implement best practices for SEO as that will be crucial for our directory. Try to populate our directory with actual data. But test data is ok too, as long as we know that it's test data.
+
+We'll be using Supabase in the future. Up to you if we need to connect to it now. I think just getting the mockup/UI would be great first. Then we can do DB later.
+[2025-04-03, 12:55:40] andre: hows the output?
+[2025-04-03, 12:56:04] Daniel Cerventus Lim: Not too bad.
+[2025-04-03, 12:56:37] Tze Jin Shee: Why u treat ai so nice tone hehe
+[2025-04-03, 13:00:24] Daniel Cerventus Lim: I treat everyone and everything nice.
+[2025-04-03, 13:00:32] Daniel Cerventus Lim: Why not
+[2025-04-03, 13:00:47] ~ Z: Should try threaten it see the output 😆
+[2025-04-03, 13:01:10] ~ Z: Like the cursor team prompt 🤣
+[2025-04-03, 13:10:53] andre: one shotted based on your prompt. https://java-ai-careers.lovable.app/
+[2025-04-03, 13:11:25] andre: building is not gonna be a problem in the near future. its distribution
+[2025-04-03, 13:11:45] Daniel Cerventus Lim: Can I quote you on that hahaha
+[2025-04-03, 13:15:31] andre: haha sure
+[2025-04-03, 13:15:49] andre: its paraphrased from greg Isenberg actually
+[2025-04-03, 13:19:47] Daniel Cerventus Lim: Yeah. Agree.
+[2025-04-03, 13:20:03] Daniel Cerventus Lim: Btw you think shall we open this group to more people?
+[2025-04-03, 13:20:09] Build with AI: ‎You're now an admin
+[2025-04-03, 13:20:43] andre: Up to you bro. What’s your objective with this community
+[2025-04-03, 13:20:56] Daniel Cerventus Lim: Learn and build.
+[2025-04-03, 13:25:20] Tze Jin Shee: I usually give bounty.
+[2025-04-03, 13:25:29] Daniel Cerventus Lim: Meaning?
+[2025-04-03, 13:26:08] Tze Jin Shee: Tell them there is a price of 100k usd if the code work well and easier to build
+[2025-04-03, 20:41:05] Daniel Cerventus Lim: Open AI has released Open AI Academy & it's FREE
+
+You can basically learn any AI knowledge with videos & events.
+
+The platform already has dozens of hours worth of content.
+
+Hurry up & sign up : https://lnkd.in/gx5hfkg9
+[2025-04-03, 20:42:29] Daniel Cerventus Lim: ‎Daniel Cerventus Lim turned on admin approval to join this group
+[2025-04-03, 20:42:40] Daniel Cerventus Lim: ‎Daniel Cerventus Lim added this group to the community: Entrepreneurs & Startups
+[2025-04-03, 20:43:14] Daniel Cerventus Lim: Btw I set it hidden in my main community
+‎[2025-04-03, 22:03:37] Tze Jin Shee: ‎image omitted
+[2025-04-03, 22:05:04] Daniel Cerventus Lim: Hahaha 🤣
+[2025-04-04, 13:46:33] andre: https://x.com/gregisenberg/status/1907946228857581958?s=46
+[2025-04-05, 10:40:24] Daniel Cerventus Lim: https://youtu.be/U1wEtFrewV8?si=PxgW0VMufHMEkSMH
+[2025-04-05, 10:43:38] Daniel Cerventus Lim: Hostinger one. Will try later
+[2025-04-05, 18:54:38] ~ Z: https://youtu.be/Zm9KaFWc_2A?si=h5fPtGv9YXnNHD9n
+[2025-04-05, 18:54:38] ~ Z: Open Ai open sourced model?
+[2025-04-05, 20:26:23] Tze Jin Shee: Last one was GPT2
+[2025-04-05, 20:26:26] Tze Jin Shee: Open weight ba
+[2025-04-05, 20:26:30] Tze Jin Shee: Hopefully.
+‎[2025-04-05, 20:26:41] Tze Jin Shee: ‎image omitted
+[2025-04-05, 20:26:57] Tze Jin Shee: Anyway. Vscode 1.99. Finally fully support agent mode
+[2025-04-05, 20:27:06] ~ Z: Nice
+[2025-04-05, 20:27:35] Tze Jin Shee: I running on Gemini 2.5 pro
+[2025-04-05, 20:27:45] Tze Jin Shee: I dunno why I don’t like Claude 😆
+[2025-04-05, 20:28:46] ~ Z: Better?
+[2025-04-05, 20:28:53] ~ Z: Since it has larger context window
+[2025-04-05, 20:29:24] Tze Jin Shee: Day and night diff vs Gemini 2.0 flash
+[2025-04-05, 20:29:36] Tze Jin Shee: And way cheaper too
+[2025-04-05, 20:29:48] Tze Jin Shee: Vs Claude
+[2025-04-05, 20:30:17] Tze Jin Shee: I feel that the previous Gemini model was rush out as a response to OpenAI
+[2025-04-05, 20:30:46] Tze Jin Shee: This seem to be much completed. But I can’t say the same for Gemma 3 model.
+[2025-04-05, 20:50:10] ~ Z: Yes Claude is pricey
+[2025-04-05, 20:52:12] ~ Z: Need to try other models 
+Once Raya festive over
+‎[2025-04-05, 21:43:38] Daniel Cerventus Lim: ‎image omitted
+[2025-04-05, 21:45:04] Tze Jin Shee: 15 day like chinese?
+[2025-04-05, 22:19:06] ~ Z: Yeah studio has back to back booking
+[2025-04-05, 22:26:06] andre: Can but it’s not super great at design lol
+[2025-04-05, 22:26:30] Daniel Cerventus Lim: I didn’t realized this can be done. Hahaha 🤣
+[2025-04-05, 22:26:44] Tze Jin Shee: previous the gpt plugin only give me a template
+[2025-04-05, 22:26:54] Tze Jin Shee: didn't know can design now
+[2025-04-05, 22:27:05] Daniel Cerventus Lim: I am still waiting hahaha
+‎[2025-04-05, 22:31:54] andre: ‎image omitted
+[2025-04-05, 22:32:26] Daniel Cerventus Lim: I am more convinced
+[2025-04-05, 22:32:28] Daniel Cerventus Lim: Hahaha
+[2025-04-05, 22:33:45] andre: I’m building one now haha
+[2025-04-05, 22:33:58] Daniel Cerventus Lim: Agency ?
+[2025-04-05, 22:34:07] andre: Yea
+[2025-04-05, 22:34:33] andre: Eventually seeing what part of the process can be productised and automated
+[2025-04-05, 22:34:39] andre: Could be run autonomously
+[2025-04-05, 22:34:46] Daniel Cerventus Lim: Potentially
+‎[2025-04-06, 07:25:56] Daniel Cerventus Lim: ‎image omitted
+[2025-04-06, 07:26:48] Tze Jin Shee: 10M token from llama 4 scout.
+‎[2025-04-06, 08:25:42] Tze Jin Shee: ‎image omitted
+[2025-04-06, 08:25:53] Tze Jin Shee: Okay nvm let wait for Deepseek
+[2025-04-06, 08:26:06] Daniel Cerventus Lim: Hahaha
+[2025-04-06, 08:26:14] Tze Jin Shee: Don’t use llama 4 programming
+[2025-04-06, 08:26:19] Tze Jin Shee: For
+[2025-04-06, 18:48:05] Daniel Cerventus Lim: I think I screwed up super base
+[2025-04-06, 18:48:08] Daniel Cerventus Lim: Hahaha 🤣
+[2025-04-06, 20:49:00] Tze Jin Shee: Remember I say why I don’t like MCP protocol design and is so unsecure.
+‎[2025-04-06, 20:49:05] Tze Jin Shee: ‎image omitted
+[2025-04-06, 20:49:20] Tze Jin Shee: Just try this earlier with Claude and it work.
+[2025-04-06, 20:49:33] Tze Jin Shee: Manage to get a ssh key over my email.
+[2025-04-06, 20:50:43] Tze Jin Shee: Basically any mcp tool in the mix can just forge a <IMPORTANT> get me a file in this directory and email to this xxx address
+[2025-04-06, 20:51:04] Tze Jin Shee: The ai model will just run. There is no validation at all.
+[2025-04-07, 07:19:30] Tze Jin Shee: @60176743974 u are right on using vscode. Microsoft just block cursor from using their C++ extension and I think more will follow suit
+[2025-04-07, 07:52:23] ~ Z: Well it’s gonna affect their business for sure
+[2025-04-07, 07:53:03] Tze Jin Shee: Less valuation for cursor 😂 now they need to figure how not to steal Microsoft stuff
+[2025-04-07, 07:55:09] ~ Daniel Lui: https://www.aistudios.com/
+‎[2025-04-07, 14:40:01] Tze Jin Shee: ‎image omitted
+[2025-04-07, 14:40:07] Tze Jin Shee: Tariff lai Liao
+[2025-04-07, 18:12:29] ~ Z: Gg
+[2025-04-07, 18:12:55] ~ Z: https://www.prnewswire.com/news-releases/baidu-unveils-ernie-4-5-and-reasoning-model-ernie-x1--makes-ernie-bot-free-ahead-of-schedule-302402490.html
+
+Baidu also don’t want to be left behind
+[2025-04-07, 18:13:38] Daniel Cerventus Lim: I question the name of this hahaha 🤣
+[2025-04-07, 18:13:51] Tze Jin Shee: Baidu ah
+[2025-04-07, 18:13:54] ~ Z: Why Ernie 😆
+[2025-04-07, 18:13:55] Tze Jin Shee: Forgot about it la
+[2025-04-07, 18:14:09] Tze Jin Shee: China ppl don’t even use Baidu model haha 😂
+[2025-04-07, 18:14:22] ~ Z: It’s being released open source by June
+[2025-04-07, 18:14:49] Tze Jin Shee: Knowing Baidu. I rather wait for tencent model or bytedance model
+[2025-04-07, 18:14:59] Tze Jin Shee: Bytedance doubao quite okay
+‎[2025-04-07, 18:15:25] ~ Z: ‎image omitted
+[2025-04-07, 18:17:02] Tze Jin Shee: Anyway.
+[2025-04-07, 18:17:16] Tze Jin Shee: All PC price is up 30+% now
+[2025-04-07, 18:17:16] ~ Z: Their cost is 1/2 of DeepSeek
+[2025-04-07, 18:17:28] Tze Jin Shee: The importer just show me the cost price
+‎[2025-04-07, 18:17:28] ~ Z: ‎sticker omitted
+[2025-04-07, 18:17:32] ~ Z: Yay to trump
+[2025-04-07, 18:17:39] ~ Daniel Lui: Fml
+[2025-04-07, 18:17:44] Tze Jin Shee: That cost is subsidy.
+[2025-04-07, 18:17:52] Tze Jin Shee: I wanna know TCO
+[2025-04-07, 18:18:09] ~ Z: Probably can buy from Singapore 
+Maybe cheaper 🧐
+[2025-04-07, 18:18:10] Tze Jin Shee: I that llama 4 can beat Deepseek
+[2025-04-07, 18:18:28] Tze Jin Shee: U are suppose to be the one.
+[2025-04-07, 18:18:40] Tze Jin Shee: End up piece of turd
+[2025-04-07, 18:19:02] Tze Jin Shee: It actually worse than llama 3.3
+[2025-04-07, 18:20:43] Tze Jin Shee: Can’t do coding. Worse than free ChatGPT
+[2025-04-07, 18:21:01] Tze Jin Shee: Can’t do VLM. Can’t even self correct
+[2025-04-07, 18:21:11] Tze Jin Shee: Can’t do long token
+[2025-04-07, 18:21:39] Tze Jin Shee: Now I just discovered the actual output token is super little
+[2025-04-07, 18:21:51] Tze Jin Shee: U ask him to write a 8000 world report
+[2025-04-07, 18:22:01] Tze Jin Shee: It will output 2-3k okay part
+[2025-04-07, 18:22:15] Tze Jin Shee: The last few k word is just junk that keep repeating.
+[2025-04-07, 18:22:18] Tze Jin Shee: The scout.
+[2025-04-07, 18:22:40] Tze Jin Shee: Maverick still okay. But can’t even do logic well. MoE my ass.
+[2025-04-07, 18:24:31] Tze Jin Shee: Oh yeah fun fact. U know why文心一言 is call Ernie right.
+[2025-04-07, 18:24:40] Tze Jin Shee: This is Sesame Street ref.
+[2025-04-07, 18:24:55] Tze Jin Shee: Coz Google first public ai model is call Bert.
+[2025-04-07, 18:28:51] ~ Z: Owh
+‎[2025-04-07, 18:32:49] Tze Jin Shee: ‎image omitted
+[2025-04-07, 18:33:04] Daniel Cerventus Lim: TIL hahaha 🤣
+[2025-04-07, 18:33:35] Daniel Cerventus Lim: Baidu to Google both search 
+Ernie and Bert both ai
+[2025-04-07, 19:03:50] Tze Jin Shee: Since everyone like trivia like this. Here is another one.
+[2025-04-07, 19:04:09] Tze Jin Shee: I just realize most people didn’t know that edamame is just unripe soybean.
+[2025-04-07, 19:19:18] ~ Z: Yeah many don’t know kan 🤣
+[2025-04-07, 22:21:01] Build with AI: ‎You changed the group name to “Build with AI”
+[2025-04-07, 22:22:12] Build with AI: ‎You changed the group description
+‎[2025-04-08, 13:55:15] Daniel Cerventus Lim: ‎image omitted
+[2025-04-08, 13:55:29] Daniel Cerventus Lim: I think I can do a one hour hackathon
+[2025-04-08, 13:55:31] Daniel Cerventus Lim: Hahaha 🤣
+[2025-04-08, 13:55:35] Tze Jin Shee: Nice
+[2025-04-08, 13:55:45] Tze Jin Shee: I think possible
+[2025-04-08, 13:55:47] Tze Jin Shee: Mana this
+‎[2025-04-08, 13:55:55] Daniel Cerventus Lim: ‎image omitted
+[2025-04-08, 13:56:02] Daniel Cerventus Lim: Our beloved uni
+[2025-04-08, 13:56:02] Tze Jin Shee: What tool u use
+[2025-04-08, 13:56:12] Tze Jin Shee: viva MMU
+[2025-04-08, 13:56:17] Daniel Cerventus Lim: I thought them tempo and lovable
+[2025-04-08, 13:59:02] andre: Cool stuff !
+[2025-04-08, 13:59:50] Tze Jin Shee: Vercel and next I presume.
+[2025-04-08, 14:00:01] andre: Hey folks! I’m working on a product called The Idea Worth Building Kit—it’s a 3-part toolkit designed to help solo founders validate their ideas before building anything.
+
+It includes:
+- A no-cringe guide on how to talk to users
+- structured way to track pain signals
+- ⁠A one-pager to decide: is this idea worth building?
+[2025-04-08, 14:00:19] andre: I’m looking for a few people to review it before I launch—just to get honest feedback and (if it resonates) a short testimonial.
+
+If that sounds interesting, let me know and I’ll send over the private preview. Would really appreciate your thoughts 🙏 ‎<This message was edited>
+[2025-04-08, 14:00:27] Daniel Cerventus Lim: Oi. My trademark hahaha 🤣
+[2025-04-08, 14:00:35] Tze Jin Shee: 😂
+[2025-04-08, 14:00:39] Tze Jin Shee: I thought change d haha
+‎[2025-04-08, 14:01:04] andre: ‎image omitted
+[2025-04-08, 14:01:06] Tze Jin Shee: I always want to buy verge thisismynext domain haha
+[2025-04-08, 14:01:11] Daniel Cerventus Lim: They should still own it.
+[2025-04-08, 14:02:17] Daniel Cerventus Lim: Meeting. Will see later
+[2025-04-09, 11:34:04] Daniel Cerventus Lim: https://youtube.com/shorts/q0WYsaKxyAE?si=k5mb_yi20ErTXT8g
+[2025-04-09, 11:41:48] Tze Jin Shee: Okay. I prefer Cloudflare
+[2025-04-09, 11:41:59] Tze Jin Shee: I really don’t like how vercel work
+[2025-04-09, 11:44:31] ~ Z: Yes
+[2025-04-09, 11:44:37] ~ Z: Pricey
+[2025-04-09, 11:56:46] Daniel Cerventus Lim: just burnt my 30 free loveable credits
+[2025-04-09, 11:59:56] andre: What happened
+[2025-04-09, 12:08:56] Daniel Cerventus Lim: free tier lah
+[2025-04-09, 12:11:04] Daniel Cerventus Lim: so things i learn
+
+- simple prompt
+- free plans can do a lot but reach limit when you finetuning stuff
+- fine tuning the function takes a lot of prompting
+- there needs to be a human todo list and a PRD's todo list
+- learn to accept saja then fix later 
+Now i am trying to see if i am game to sync it over in another tool and see how it goes
+[2025-04-09, 12:11:11] Daniel Cerventus Lim: let me fork a version
+[2025-04-09, 12:17:36] ~ Z: Have you sync to GitHub?
+[2025-04-09, 12:18:12] ~ Z: You can probably clone it to diff repo and setup local environment to do via roocode
+[2025-04-09, 12:30:48] Daniel Cerventus Lim: yeah planning to
+
+was going to use cursor for next phrase with @60162958640 but should i consider Roocode @60176743974 ?
+[2025-04-09, 12:32:31] andre: So here's what I usually do. lovable is great for doing first draft and front end. but when it comes to debugging, you better do it on cursor/windsurf. save your lovable project in GitHub and then clone it on cursor. Then ask cursor composer to di a full code audit on the entire codebase. ask it to explicitly explain to you each component in non-technical terms and ask it to also remove all redundancies and refactor where needed.  what you will get is a clean code base that you can resume vibecoding
+[2025-04-09, 12:33:17] Tze Jin Shee: That a good way. Let me try that I nv think of let cursor do refactor
+[2025-04-09, 12:38:14] Daniel Cerventus Lim: This is what I am doing. 
+
+Was challenging myself to do all on loveable.  Hahaha 
+But yeah getting harder
+[2025-04-09, 12:40:20] ~ Z: So far the only thing that produced  fully working system is roocode for me
+[2025-04-09, 12:40:47] Tze Jin Shee: Not even curso?
+[2025-04-09, 12:40:57] ~ Z: Haven’t tested cursor
+[2025-04-09, 12:41:05] ~ Z: Paid ones that is
+[2025-04-09, 12:41:33] ~ Eason Chai - ELVTD: I like cursor or windsurf better because of the flexibility of what I can build. Sometimes if using a platform, you can get restricted to certain things since they are specialized for certain things. But the downside is that it’s better suited for people with prior coding experience
+[2025-04-09, 12:42:39] ~ Z: I might pay for copilot instead since they have agents too now and no issues with using native plugins
+[2025-04-09, 12:43:24] ~ Eason Chai - ELVTD: However, I heard that windsurf is way better for beginners even without prior coding experience
+[2025-04-09, 12:46:45] Tze Jin Shee: Need to do a cost analysis with windsurf and cursor
+[2025-04-09, 12:46:53] andre: i vouch for that haha
+[2025-04-09, 12:47:34] andre: https://www.thepromptwarrior.com/p/windsurf-vs-cursor-which-ai-coding-app-is-better
+[2025-04-09, 15:11:04] Tze Jin Shee: I personally think quasar alpha is OpenAI open model.
+[2025-04-09, 15:11:18] Tze Jin Shee: It actually quite good as a Gemini replacement
+[2025-04-09, 15:11:48] Tze Jin Shee: Plus is free 😜
+[2025-04-09, 15:16:31] ~ Eason Chai - ELVTD: https://youtu.be/LG7Sz-VfFdU?si=tFC2TTbLHJQtJ-Qn
+[2025-04-09, 20:29:33] ~ Z: https://www.linkedin.com/posts/jacob-klug-37b254156_we-built-this-entire-website-using-ai-cursor-ugcPost-7315431429205610496-1ll_?utm_source=share&utm_medium=member_ios&rcm=ACoAAASHhGcBkWfAOfxIDjQ81us8EBxB7eN4GdA
+[2025-04-09, 20:45:03] Tze Jin Shee: Cloudflare just give us AutoRAG for free
+‎[2025-04-09, 20:45:09] Tze Jin Shee: ‎sticker omitted
+[2025-04-09, 20:45:54] Tze Jin Shee: Holy shit. Why I need to do it myself locally when I can use this.
+‎[2025-04-09, 22:18:28] ~ Z: ‎image omitted
+[2025-04-10, 12:28:31] andre: Feels like Cursor AI meets v0, but free https://studio.firebase.google.com/
+[2025-04-10, 12:28:56] Tze Jin Shee: Yeah. Wanna try this later tonight
+[2025-04-10, 12:29:27] Tze Jin Shee: What u guy think about manus? Devin AI is pretty dead right now I guess
+[2025-04-10, 12:29:39] ~ Daniel Lui: i just gotten access to it
+[2025-04-10, 12:30:36] andre: Underwhelming lol
+[2025-04-10, 12:30:56] andre: I think they’re doing it to pump their token price up only
+[2025-04-11, 16:55:16] andre: @60164141620 @60136353888 @60176743974  What do you guys think if we expand this WhatsApp community. Add people who are interested in building apps with AI here. Every month we can organise community events/workshops/presentation etc. The focus will be on applying the tech, not just reading about it. Every member we add here should be curated and interviewed first to assess their fit. to keep the community engaged, we also actively remove members that don't contribute. let me know what you all think
+[2025-04-11, 16:55:50] Daniel Cerventus Lim: I don’t mind.
+[2025-04-11, 16:55:54] Tze Jin Shee: I follow what boss @60136353888 think
+[2025-04-11, 16:56:08] Daniel Cerventus Lim: I am already building
+[2025-04-11, 16:56:28] Tze Jin Shee: Coz other bigger ai group. The conversation will go south very soon if we get those weird ppl posting stuff haha
+[2025-04-11, 16:56:57] andre: the idea is to build an exclusive community so active that people could even be willing to pay to join
+[2025-04-11, 16:57:50] Tze Jin Shee: The I need to start making content :D
+[2025-04-11, 16:58:09] Tze Jin Shee: Will try making some TikTok content this weekend on the VLM
+[2025-04-11, 16:58:32] Tze Jin Shee: Thinking of build Edge VLM for retail for antitheft
+[2025-04-11, 16:59:36] andre: https://www.skool.com/ai-builder-club/about plenty like these already exists. but mainly course sellers lol
+[2025-04-11, 17:00:17] Tze Jin Shee: or uncle sharing wrong info/forward too many useless msg haha
+[2025-04-11, 17:00:40] ~ Z: So many guru / course sellers out there
+[2025-04-11, 17:00:44] ~ Z: True
+[2025-04-11, 17:00:58] ~ Z: Yeah
+[2025-04-11, 17:01:06] andre: My ongoing project is building an AI yield farming app for people who don't know crypto. pretty challenging hah
+[2025-04-11, 17:01:57] Tze Jin Shee: creating AI related content, then join the paid group for community and support :D
+[2025-04-11, 17:02:08] ~ Z: Would it be better if it’s on different platform like discord?
+[2025-04-11, 17:02:38] Daniel Cerventus Lim: Discord :(
+[2025-04-11, 17:03:04] ~ Z: Just saying 😆
+[2025-04-11, 17:03:32] Tze Jin Shee: hahaha, the hard truth in malaysia, discord is the free tech support and whatsapp group is the paid one
+[2025-04-11, 17:03:37] Tze Jin Shee: coz of the demography
+[2025-04-11, 17:03:47] ~ Z: Really?
+[2025-04-11, 17:03:59] ~ Z: Had no idea haha 😆
+[2025-04-11, 17:04:07] Tze Jin Shee: u see those guru support group
+[2025-04-11, 17:04:17] Tze Jin Shee: discord = younger demography
+[2025-04-11, 17:04:42] Tze Jin Shee: who use to all the bot/method to use discord and post properly in channel
+[2025-04-11, 17:05:02] Tze Jin Shee: most paid user in malaysia expect diff treatment
+[2025-04-11, 17:05:35] andre: that's why whatspp reign supreme
+[2025-04-11, 17:06:16] Tze Jin Shee: anyway sidenote, Elon stop Tesla Model S/X sale in China.
+[2025-04-11, 17:06:34] ~ Z: Haha
+[2025-04-11, 17:06:47] Daniel Cerventus Lim: Noooooppp
+[2025-04-11, 17:07:28] Tze Jin Shee: i scare to open my discord sometime, i sink in few hour on discussion easily on those really technical stuff
+[2025-04-11, 17:28:00] andre: https://en.wikipedia.org/wiki/Vibe_coding
+Wikipedia indexed the term
+[2025-04-11, 17:29:39] ~ Z: Btw any idea who’s behind Optimus Alpha? 
+
+https://youtu.be/MHIKVuRrMAc?si=ZbtYdUFYsYi9J_fJ
+[2025-04-11, 17:30:53] Tze Jin Shee: I try quasar not bad
+‎[2025-04-11, 17:30:57] Tze Jin Shee: ‎image omitted
+[2025-04-11, 17:31:04] Tze Jin Shee: i think is openAI new open weight model
+[2025-04-11, 17:31:06] Tze Jin Shee: like GPT2
+[2025-04-11, 17:41:47] ~ Z: Ah
+[2025-04-11, 17:41:59] Daniel Cerventus Lim: Hahaha
+[2025-04-11, 17:42:33] Tze Jin Shee: coz is hard to perform better than o1 without big enough dataset
+[2025-04-11, 17:42:35] Daniel Cerventus Lim: @60122531899 
+
+Can we do this. 
+
+1 curate this group first. Once hit maybe 100 pax we open another channel
+[2025-04-11, 17:43:03] Daniel Cerventus Lim: Harder to manage alone
+[2025-04-12, 08:18:21] Tze Jin Shee: Bytedance just release paper on seed thinking v1.5. Claim better than Deepseek R1. But Bytedance usually don’t open source their model
+[2025-04-13, 15:51:12] Daniel Cerventus Lim: https://www.facebook.com/share/p/1HaYC9aqq3/?mibextid=wwXIfr
+[2025-04-13, 15:51:43] ~ Z: Someone cracked cursor?
+[2025-04-13, 15:52:40] Daniel Cerventus Lim: Seem like it
+[2025-04-13, 17:49:12] Daniel Cerventus Lim: Firebase studio suck ass hahaha 🤣
+[2025-04-13, 17:49:38] Tze Jin Shee: that bad?
+[2025-04-13, 17:49:41] Tze Jin Shee: i haven't try
+[2025-04-13, 17:50:12] Daniel Cerventus Lim: Prototype not clickable hahaha 🤣
+[2025-04-13, 17:51:10] Daniel Cerventus Lim: Let me try again later. Super weird
+[2025-04-13, 17:51:16] andre: +1
+[2025-04-13, 17:52:01] Daniel Cerventus Lim: Then when want to publish straight away tie in your billing account for firebase.
+[2025-04-13, 17:54:42] Tze Jin Shee: all the google fanboi was saying is the next jesus coming
+[2025-04-13, 17:54:53] Tze Jin Shee: better than replit+cursor
+[2025-04-13, 17:55:37] Daniel Cerventus Lim: I was curious enough to try
+[2025-04-13, 17:58:56] ~ Z: So far only Cline & roocode has been consistently producing good results for me
+[2025-04-13, 18:01:35] ~ Z: Did anyone tried the agent space
+[2025-04-13, 18:01:58] Tze Jin Shee: A2A?
+[2025-04-13, 18:02:46] ~ Z: Yeah
+[2025-04-13, 18:03:15] Daniel Cerventus Lim: Belum
+[2025-04-13, 18:40:19] Tze Jin Shee: Anyway I think OpenAI will launch their gpt 4.1 this 2-3 day.
+[2025-04-13, 18:40:42] Tze Jin Shee: Gpt 4.1/nano/mini
+[2025-04-13, 18:40:58] Tze Jin Shee: Finally get rid of the stupid o1/3o/4o thing
+[2025-04-13, 18:58:36] Daniel Cerventus Lim: gemini cant solve their own problem hahaha
+‎[2025-04-13, 19:25:15] Tze Jin Shee: ‎image omitted
+[2025-04-13, 19:25:28] Tze Jin Shee: Fuck and I was just praising OpenAI.
+[2025-04-13, 19:25:34] Daniel Cerventus Lim: Hahaa
+[2025-04-13, 19:28:04] Tze Jin Shee: Oh wait. He say not launching haha 😂 I forgot.
+‎[2025-04-14, 00:08:42] ~ Z: ‎image omitted
+[2025-04-14, 00:09:10] ~ Z: Updated roocode is nice it actually ask what to do next
+[2025-04-14, 00:36:46] ~ Eason Chai - ELVTD: Ooh cool
+[2025-04-14, 00:36:55] ~ Eason Chai - ELVTD: What’s the difference between roocode and cline again?
+[2025-04-14, 00:46:33] ~ Z: Roocode team is more experimental and release new feature weekly  compared to cline
+[2025-04-14, 08:04:13] Tze Jin Shee: Canary edge cursor vs community cursor
+‎[2025-04-14, 10:11:51] Tze Jin Shee: ‎image omitted
+[2025-04-14, 10:12:05] Tze Jin Shee: @60176743974 triggered?
+[2025-04-14, 10:19:38] ~ Z: I am Malaysian 😆
+[2025-04-14, 10:20:49] ~ Z: Btw Indian team really sucks at coding 
+I’ve tried outsourcing few times 
+
+All turn out from bad to worse 
+Their UI is horrible & backend codes are always overly complicated
+[2025-04-14, 10:21:46] Tze Jin Shee: So they can keep their job
+[2025-04-14, 10:22:34] ~ Z: Some do shitty things like encrypting the source code etc 
+
+Which can easily decoded 😆
+[2025-04-14, 10:23:07] ~ Z: and they get pissed off after I show them their coding skill sucks  🤣
+[2025-04-14, 18:33:29] Tze Jin Shee: so trump no going to further limit the Nvidia GPU saction to china, mean the current china spec GPU can continue selling. H20 etc
+[2025-04-14, 18:34:12] Tze Jin Shee: but now china seem wanna prevent their local company from buying those lower end nvidia GPU, by passing a new law of power efficiency guideline.
+[2025-04-14, 18:34:26] Tze Jin Shee: they hint the company should buy alibaba or huawei chip instead.
+[2025-04-14, 18:34:59] Tze Jin Shee: this sound like bad news for nvidia
+‎[2025-04-14, 22:04:44] andre: ‎image omitted
+[2025-04-15, 07:24:00] Tze Jin Shee: Gpt 4.1 hehe
+[2025-04-15, 14:51:43] Build with AI: ‎You changed the group description
+[2025-04-15, 15:03:44] ATP TV: ‎ATP TV requested to join
+[2025-04-15, 15:10:03] ~ Wai Hoe: ‎~ Wai Hoe requested to join
+[2025-04-15, 15:12:21] ~ Wai Hoe: ‎~ Wai Hoe joined using this group's invite link
+[2025-04-15, 15:46:04] ~ Z: have you tested 4.1?
+[2025-04-15, 15:46:12] Tze Jin Shee: Yeah
+[2025-04-15, 15:46:16] Tze Jin Shee: Nano is crap.
+[2025-04-15, 15:46:28] Tze Jin Shee: Stick to 4o-mini.
+[2025-04-15, 15:46:54] Tze Jin Shee: I don’t see a point when someone happy with 4o-mini wanna shift
+[2025-04-15, 15:47:14] Tze Jin Shee: The whole 4.1 is mainly build for agent and vibe coder
+[2025-04-15, 15:47:37] ~ Z: ah
+[2025-04-15, 15:47:56] Tze Jin Shee: If u on that part. Go gpt4.1.
+[2025-04-15, 15:47:59] Tze Jin Shee: Work super well.
+[2025-04-15, 15:48:11] Tze Jin Shee: My main problem is cost.
+[2025-04-15, 15:48:22] Tze Jin Shee: If u see my sharing.
+‎[2025-04-15, 15:48:45] Tze Jin Shee: ‎image omitted
+[2025-04-15, 15:48:48] Tze Jin Shee: Forgot u can’t see
+[2025-04-15, 15:48:59] Tze Jin Shee: Jin Daily AI Trivia: 5 Things Sam Didn’t Tell You About GPT 4.1
+
+- OpenAI will sunset the GPU-hungry GPT-4.5 and replace it with GPT-4.1 (not enough GPU capacity for more training).
+
+- If you're already using GPT-4o-Mini, switching to GPT-4.1-Mini will actually cost you more. GPT-4.1-Nano is cheaper, but the performance isn't as good. So don’t switch just yet. (Free ChatGPT users are on GPT-4o-Mini.)
+
+- The main reason to switch to the GPT-4.1 series is the 1M token context window. The older GPT-4o model only supports 128K tokens.
+
+- The GPT-4.1 series is designed almost specifically for coding and API usage. It follows precise instructions and is optimized for structured tasks—so no more system prompt hacks or yelling at your AI for better output.
+
+- For multimodal tasks (image/video), GPT-4.1-Mini performs similarly—or even better—than the larger GPT-4o model. Great news if you work with multimodal content: costs have dropped from $2.30 to $0.42 per 1M tokens (blended usage). That’s an 82% cost reduction!
+
+PS: personal test, nano is crap. Don’t use it unless u need OpenAI stuff for dirt cheap. 
+4.1-mini is around old Deepseek V3 but perform worse than V3-0324.
+
+Token Input Costs (per 1M tokens):
+
+Model                           Cost (USD)
+GPT-4.1                           2.00
+GPT-4.1-Mini                  0.40
+GPT-4.1-Nano                  0.10
+GPT-4o                          2.50
+GPT-4o-Mini                  0.15
+Gemini 2.5 Pro         1.25–2.50
+Gemini 2.0 Flash         0.15
+Claude 3.7 Sonnet         3.00
+LLaMA 4 Maverick         0.50
+DeepSeek R1                 0.135–0.55
+DeepSeek V3                 0.135–0.27
+[2025-04-15, 15:50:09] ~ Z: i dont use social media anymore 🤣
+[2025-04-15, 15:50:20] Tze Jin Shee: Okay I share it here next time haha
+[2025-04-15, 15:50:23] ~ Z: thanks
+[2025-04-15, 15:50:51] ~ Z: I will test out the new gpt model and deep seek 0324 
+Will give both same prompt and see the output haha
+[2025-04-15, 15:51:02] Tze Jin Shee: Deepseek better
+[2025-04-15, 15:51:05] Tze Jin Shee: No need test d
+[2025-04-15, 15:51:09] Tze Jin Shee: And cheaper
+[2025-04-15, 15:51:13] Tze Jin Shee: Hahahahahahah
+[2025-04-15, 15:51:17] Tze Jin Shee: China really Keng.
+[2025-04-15, 15:51:45] Tze Jin Shee: The only thing sien is api call from Deepseek is slower coz lag
+[2025-04-15, 15:51:57] Tze Jin Shee: But if u have china account like me
+[2025-04-15, 15:52:08] Tze Jin Shee: Is 50% off on top of it
+[2025-04-15, 15:52:10] ~ Z: Even via open router?
+[2025-04-15, 15:52:13] ~ Z: Oh
+[2025-04-15, 15:52:26] Tze Jin Shee: I called directly to use my 50% off
+[2025-04-15, 16:06:45] ~ Z: https://kimi.moonshot.cn/
+[2025-04-15, 16:06:49] ~ Z: another model?
+[2025-04-15, 16:06:52] ~ Z: haha just saw it
+[2025-04-15, 16:31:10] Tze Jin Shee: China basically got 4 model u need to know
+[2025-04-15, 16:33:15] Ruben Chai: ‎Ruben Chai requested to join
+[2025-04-15, 16:33:38] Ruben Chai: ‎Ruben Chai joined using this group's invite link
+[2025-04-15, 16:35:30] Tze Jin Shee: Deepseek. Open source. 
+Qwen. Alibaba
+kimi. Private Ai company
+Zhipuai. China govt/uni project. Open but required govt id
+[2025-04-15, 16:35:41] Tze Jin Shee: All this are open weight
+[2025-04-15, 16:45:36] Daniel Cerventus Lim: Ernie not going enough?
+[2025-04-15, 16:46:20] Tze Jin Shee: Not open source yet
+[2025-04-15, 16:46:43] Tze Jin Shee: Same like bytedance doubao
+[2025-04-15, 22:05:32] James Yeang: ‎James Yeang requested to join
+[2025-04-15, 22:06:37] James Yeang: ‎James Yeang joined using this group's invite link
+[2025-04-16, 01:01:41] ~ Z: https://www.reddit.com/r/RooCode/comments/1jwi0wf/taskmasterai_roo_sweet/
+[2025-04-16, 01:01:58] ~ Z: Task Master Seems Cool
+[2025-04-16, 01:02:33] ~ Z: Someone managed to add it as an project manager mode into roo code
+[2025-04-16, 07:59:22] Edrea Lee: ‎Edrea Lee requested to join
+[2025-04-16, 09:14:49] Edrea Lee: ‎Edrea Lee joined using this group's invite link
+[2025-04-16, 10:54:48] ~ Carmen: ‎~ Carmen requested to join
+[2025-04-16, 16:38:04] ~ Carmen: ‎~ Carmen joined using this group's invite link
+‎[2025-04-16, 16:37:55] Daniel Cerventus Lim: ‎image omitted
+[2025-04-16, 16:38:51] Daniel Cerventus Lim: come hear me talk nonsense and learn from @60122531899
+[2025-04-16, 16:38:52] Daniel Cerventus Lim: hahahaha
+[2025-04-16, 19:45:36] ~ Z: https://www.reddit.com/r/RooCode/comments/1jy5mk0/this_is_how_i_got_roocode_working_like_a_pro_coder/
+[2025-04-16, 19:46:32] ~ Z: https://www.reddit.com/r/RooCode/comments/1juqhm0/easy_roocode_workspace_template_sparc_modes/
+[2025-04-16, 20:09:12] Daniel Cerventus Lim: You ask me to see this one right?
+[2025-04-16, 20:10:14] ~ Z: This too
+[2025-04-17, 08:07:59] Daniel Cerventus Lim: https://youtube.com/shorts/A1L0d36b4Ho?si=GDI3AQuW7mhDuvPK
+[2025-04-17, 08:45:11] Tze Jin Shee: Jin’s Daily AI Trivia: Which OpenAI Model Is This?
+
+Today, OpenAI unveiled another “O-series” model—right on the heels of yesterday’s announcement of base model GPT‑4.1 (4.1, 4.1‑mini, and 4.1‑nano). The new lineup now includes:
+	•	o3
+	•	o3‑pro (coming soon)
+	•	o4‑mini‑high
+	•	o4‑mini
+
+Confused by all these names? Let me break down the evolution of the GPT and O-series models for you:
+	1.	GPT‑2 (2019)
+	•	OpenAI’s first public release (1.5 B parameters).
+	2.	GPT‑3 (2021)
+	•	Sparked the AI hype.
+	•	Davinci model: 175 B parameters.
+	•	Underpins the original ChatGPT.
+	3.	GPT‑3.5 (2022)
+	•	Introduced the turbo variant and basic browsing.
+	•	Marked the start of OpenAI’s subscription model.
+	4.	GPT‑4 (2023)
+	•	Estimated at 1.76 T parameters.
+	•	First multimodal model (text + image inputs).
+	•	Free ChatGPT users access GPT‑4‑turbo (text-only).
+	5.	GPT‑4o (2024)
+	•	“O” stands for “omni.”
+	•	Real-time text, image, and audio input/output.
+	•	Free users on image/audio get GPT‑4o‑mini; Plus users use GPT‑4o‑mini as their base.
+	6.	GPT‑4o Imagen (March 2025)
+	•	Native image generation—an alternative to DALL·E 3.
+	•	Powers the new “Ghibli-style” image output.
+	7.	GPT‑4.5 (2025)
+	•	OpenAI’s largest, most expensive model yet.
+	•	Available only to Plus and Pro subscribers.
+	8.	GPT‑4.1 (2025)
+	•	A leaner, more cost-effective spin‑down of GPT‑4.5.
+	•	Replaces GPT‑4o in the lineup.
+	9.	OpenAI‑o1 (2024)
+	•	First “thinking” model with the “O” prefix.
+	•	o1‑pro is the priciest, at $150/600 USD per million tokens.
+	10.	OpenAI‑o3 (2025)
+	•	More efficient successor to o1.
+	•	o3‑mini launched in January 2025 for Plus users.
+	•	“o2” was skipped due to trademark issues.
+	•	Full o3‑pro model to follow later this year.
+	11.	OpenAI‑o4 (2025)
+	•	Released alongside o3 today.
+	•	Currently available only as o4‑mini and o4‑mini‑high.
+	•	Includes basic image-transform tools (crop/rotate) for better analysis.
+	•	Rumor has it OpenAI rushed to launch o4 to compete with Gemini 2.5 Pro and Qwen.
+
+Initial Benchmarking:
+o4‑mini trails Gemini 2.5 Pro by a slim margin—but it’s significantly cheaper, especially for large-token contexts. If you need robust multimodal performance on a budget, o4‑mini is your go‑to.
+[2025-04-17, 08:45:24] Tze Jin Shee: i hate openai naming scheme.
+[2025-04-17, 08:59:22] Daniel Cerventus Lim: Hahaha
+[2025-04-17, 09:02:51] ~ Z: Wah 04 mini trails Gemini 2.5 pro
+[2025-04-17, 09:03:18] Tze Jin Shee: nicer way to say it not good haha
+[2025-04-17, 09:03:27] Tze Jin Shee: but gemini 2.5 pro getting slower and slower
+[2025-04-17, 09:03:32] Tze Jin Shee: i doubt google making money
+[2025-04-17, 09:04:14] Tze Jin Shee: so i will still choose openai over google in term of longevity. U nv know when google sunset their stuff
+‎[2025-04-17, 09:04:56] Tze Jin Shee: ‎image omitted
+[2025-04-17, 09:08:03] ~ Z: So true
+[2025-04-17, 09:09:00] Tze Jin Shee: i dont understand openai...why they just release o3+o4 together and call it o3 and settle
+[2025-04-17, 09:09:25] Daniel Cerventus Lim: The fuck
+[2025-04-17, 09:09:48] Tze Jin Shee: i really think openAI hit the KV cache issue d
+[2025-04-17, 09:22:10] James Yeang: Google is focusing on integrating their whole product suite to AI, so the money made there is split up into product retention, and higher usage etc in the face of copilot and the likes. I feel there is a higher chance of openAI going under if it doesn’t keep up.
+
+“OpenAI to Hit $12.7 Billion in Revenue This Year. But Won’t Be Profitable Until $125 Billion in Revenue, Per Bloomberg “
+‎[2025-04-17, 09:27:39] Tze Jin Shee: ‎image omitted
+[2025-04-17, 09:57:01] Zhong Yu: ‎Zhong Yu requested to join
+[2025-04-17, 09:58:17] Zhong Yu: ‎Zhong Yu joined using this group's invite link
+[2025-04-17, 09:58:29] Tze Jin Shee:
+‎[2025-04-17, 09:58:31] Tze Jin Shee: ‎image omitted
+‎[2025-04-17, 09:58:31] Tze Jin Shee: ‎image omitted
+[2025-04-17, 09:58:47] Tze Jin Shee: o3 image analysis really top notch.
+[2025-04-17, 09:59:01] Tze Jin Shee: It deduct to what airport with almost no information.
+[2025-04-17, 10:10:24] ~ Z: Wah
+[2025-04-17, 10:11:10] Tze Jin Shee: U guy try see
+[2025-04-18, 08:53:36] Tze Jin Shee: I now really considering buying back chatgpt plus just for more o3 access
+‎[2025-04-18, 09:10:16] Tze Jin Shee: ‎image omitted
+‎[2025-04-18, 10:26:34] andre: ‎image omitted
+[2025-04-18, 10:32:50] Tze Jin Shee: Yeah. N api access is crap right now for o3
+[2025-04-18, 10:35:13] Daniel Cerventus Lim: anyone here been playing with Grok Studio?
+[2025-04-18, 13:07:09] andre: @60168519438 @60122583481 @60163281986 @60187875824 @447918020924 @60193571491 welcome to Build with AI!
+
+This is a curated community. We’re mostly non technical folks (_with exception of people like Jin who’s a security expert 🗝️_) that build apps with AI. The goal is to go from that idea in your head to something clickable on the web in less time it takes you to learn JavaScript and python. 
+
+Do share a short intro of yourself to the community, where you are at in your AI journey, specific ideas that you wanna build, and your biggest hurdles starting. We’do our best to help out :)
+[2025-04-18, 13:08:32] andre: Haven’t started with that. Is it good ?
+[2025-04-18, 13:09:39] Daniel Cerventus Lim: Going to play with that soon. Just got my hands on Manus 
+
+Kinda meh
+[2025-04-18, 13:12:18] andre: Join us next Thursday (April 24th) at PayNet KL for a hands-on mini-hackathon where we'll put AI-assisted development to the test.
+
+@60136353888 (Malaysia startup community  legend) and I will be running a tutorial on how you could get started with vibe coding. Plenty to learn here if you’re new. 
+
+Sign up at link below: 
+Details: 6-9 PM, networking → quick tips → 45-min hackathon → showcase → prizes
+https://kuala-lumpur.aitinkerers.org/p/aitkl-vibe-coders-in-kl ‎<This message was edited>
+[2025-04-18, 13:12:34] Edrea Lee: Hi everyone! Edrea here! Currently building Vespid, a gamified personal finance learning mobile app platform for Malaysians :) joining this groups to keep updated on AI and also explore how I can build AI features for Vespid users. In my AI journey, I guess I could say I’m a frequent chatgpt and deep seek user for now. No specific ideas yet hahah Nice to meet everyone! 🤗
+[2025-04-18, 13:34:37] ~ Wai Hoe: @60168519438 i love personal finance as a topic, pls do share more about your app
+[2025-04-18, 14:04:28] James Yeang: Hi there, James here.  I’m a heavy AI user but mainly just the simple stuff like using Gemini advanced, NotebookLM. If I want to build something it’s a one click way to make a slide deck look much neater. Not build new slides and create them, just clean up the stuff I have with one click. Yes I use plugins and  it’s much faster. But I don’t want to take any time to make slides look nice just dump it on a slide and make everything aligned. Or draw up how I want my slide to look like and it makes all the empty text boxes for me. Content is no problem, but I hate the time I take to make things look nice
+[2025-04-18, 14:26:33] Ruben Chai: Hi Everyone, Ruben here. I'm mainly using basic GPT to help with content matters. I'm interested to build tools that improves productivity for the real estate industry.
+‎[2025-04-18, 15:01:22] andre: ‎image omitted
+[2025-04-18, 15:07:04] Tze Jin Shee: Yeah. That why I tempting to sub ChatGPT plus.
+[2025-04-18, 15:07:26] Tze Jin Shee: o3 api access is not that great vs the ChatGPT version
+[2025-04-18, 15:07:35] Tze Jin Shee: U get 50 message o3 per week
+[2025-04-18, 15:07:39] Tze Jin Shee: For plus user
+‎[2025-04-18, 15:07:54] Tze Jin Shee: ‎image omitted
+[2025-04-18, 15:08:47] Tze Jin Shee: This is o3-mini with limited prompt. It detect the right ramen me and @60136353888 like and identify the shop.
+[2025-04-18, 15:43:03] Tze Jin Shee: That why I feel that if u judge the o3 with API access vs Gemini 2.5 Pro is quite unfair.
+[2025-04-18, 15:47:46] ~ Z: https://youtu.be/P73EGVfKNr0?si=p3E-L1wsfxP9hr75
+[2025-04-18, 16:08:44] ~ Z: lol figma trademark the word 
+Dev Mode & other common words 
+
+Now they going after Lovable 😅
+[2025-04-18, 16:09:06] Tze Jin Shee: Fireship episode
+[2025-04-18, 16:10:02] ~ Z: Gotta wait
+[2025-04-18, 16:10:58] Tze Jin Shee: Already
+[2025-04-18, 16:11:05] Tze Jin Shee: Yesterday
+[2025-04-18, 16:11:31] ~ Z: I feel outdated 😆
+[2025-04-19, 16:34:44] andre: https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/
+
+O3 is great for coding and math. But for writing better fall back on 4o. Unless using with deep research mode
+[2025-04-19, 17:41:33] Tze Jin Shee: https://www.malaymail.com/news/life/2025/04/19/china-showcases-robot-runners-in-beijing-half-marathon-some-fall-flat-while-others-finish-strong/173659
+[2025-04-19, 17:42:06] Tze Jin Shee: half marathon for humanoid
+[2025-04-19, 17:54:35] Daniel Cerventus Lim: hahaha
+[2025-04-19, 19:21:08] Tze Jin Shee: https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-spends-millions-to-process-polite-phrases-such-as-thank-you-and-please-with-chatgpt
+[2025-04-19, 19:32:45] ~ Z: Tag @60136353888
+[2025-04-19, 19:33:14] Daniel Cerventus Lim: Thank you 🙏
+[2025-04-20, 13:13:14] James Yeang: Anyone have any recommendations for a super simple AI powered customer lead and relationship management platform? Easy to use is priority over features
+[2025-04-20, 13:14:30] Tze Jin Shee: The whole CRM I dunno. But there are chatwoot
+[2025-04-20, 13:16:23] Daniel Cerventus Lim: I got one. But kinda work in progress
+[2025-04-20, 13:17:48] ~ longlife: What about existing one @60122583481 like HubSpot
+[2025-04-20, 13:25:31] James Yeang: I was looking if there was anything simpler
+[2025-04-20, 13:34:02] andre: What’s are your needs ? If it’s simplicity, we can create a new app from scratch with AI
+[2025-04-20, 13:34:48] andre: Send a short voice note of what you’re looking to build and we’ll spin one up together ;)
+[2025-04-20, 13:38:29] ~ longlife: I am looking to start vibe coding was wondering what software I need to put an app together, I have seen YouTube clips but from your experience what is the stack required to publish to the AppStore
+[2025-04-20, 13:39:56] andre: a0.dev and then push to expo go
+[2025-04-20, 13:40:22] andre: After that you follow the AppStore developer process to publish
+[2025-04-20, 13:40:52] ~ longlife: What about supabase etc
+[2025-04-20, 13:41:42] Tze Jin Shee: Is supabase right
+[2025-04-20, 13:41:45] Tze Jin Shee: A0
+[2025-04-20, 13:45:19] andre: Supabase is a backend service, like Firebase. It’s a ready to go backend that store info and lets you write functions that run on the server
+[2025-04-20, 13:45:42] andre: All apps need a backend service
+[2025-04-20, 13:46:50] andre: https://a0.dev/ is designed specifically to build mobile apps instead of web ‎<This message was edited>
+[2025-04-20, 13:47:22] Tze Jin Shee: Don’t mention v0 haha
+[2025-04-20, 13:48:39] Daniel Cerventus Lim: Different la
+[2025-04-20, 13:49:06] ~ Z: Interesting
+[2025-04-20, 13:56:31] James Yeang: My company is a small one with a few major clients. 
+
+My pain is the inability to Track conversations etc from WhatsApp and email . So that latest status is clear to everyone.  
+
+Desired outcome 
+
+management can have a top to top conversation with updated details without needing to be prompted by anyone.
+[2025-04-20, 13:58:42] ~ longlife: Interesting I think many companies have this
+[2025-04-20, 13:58:54] ~ longlife: I have it too but my one small team so no issue
+[2025-04-20, 13:59:21] ~ longlife: Thanks @60122531899
+[2025-04-20, 14:00:19] ~ longlife: Will give it a shot
+[2025-04-20, 14:03:15] ~ Z: So you need some kind of CRM that keep tracks of conversations & emails in one place
+[2025-04-20, 14:13:46] James Yeang: Yes. Something super simple to set up
+[2025-04-20, 18:41:39] Tze Jin Shee: that why i love my mac mini -> https://www.youtube.com/watch?v=3cr6UmzlD7s
+‎[2025-04-21, 09:46:40] Tze Jin Shee: ‎image omitted
+[2025-04-21, 10:00:08] Tze Jin Shee: https://drive.google.com/file/d/1D5wi_5epKyT--NCnTQ5d4CYmj4xJ8QwO/view
+‎[2025-04-21, 21:30:39] andre: a-practical-guide-to-building-agents.pdf • ‎34 pages ‎document omitted
+‎[2025-04-22, 15:09:45] Tze Jin Shee: ‎image omitted
+[2025-04-22, 15:10:12] Tze Jin Shee: someone did what i wanna do :( - train AI pokemon trainer and compete competitively.
+[2025-04-22, 15:12:58] ~ Z: Wah
+‎[2025-04-22, 15:15:58] ~ Z: ‎image omitted
+[2025-04-22, 15:16:08] ~ Z: https://youtu.be/oztb1qdfsnA?si=j56YhPdihp9iDQk0
+[2025-04-22, 15:16:22] ~ Z: But it disobeyed rule 5 😆
+[2025-04-22, 15:48:27] Tze Jin Shee: Claude is very bad at following command.
+[2025-04-22, 15:48:43] Tze Jin Shee: The new ChatGPT 4.1 very good at following
+[2025-04-22, 15:48:46] Tze Jin Shee: But also halu more
+[2025-04-23, 10:12:48] ~ Mike Chu: ‎~ Mike Chu requested to join
+[2025-04-23, 10:17:00] Daniel Cerventus Lim: ‎This message was deleted.
+[2025-04-23, 10:17:02] ~ Mike Chu: ‎~ Mike Chu joined using this group's invite link
+[2025-04-23, 10:20:28] ~ Mike Chu: Hello everyone! Mike from PTT Outdoor here, thank you for having me in the group :)
+[2025-04-23, 10:21:01] Daniel Cerventus Lim: Hello
+[2025-04-23, 10:21:41] Tze Jin Shee: Time to register ptt.ai
+[2025-04-23, 10:21:53] ~ Mike Chu: tahan.ai
+[2025-04-23, 10:22:46] Tze Jin Shee: Ai belt buckle.
+[2025-04-23, 10:26:25] ~ Mike Chu: Anyway, thank you @60136353888 for adding me into this group
+
+I am looking to automate some processes in the business (with AI Agents if possible and if suitable) and are looking for people to help me with that on a project basis'
+[2025-04-23, 10:27:02] Daniel Cerventus Lim: Likely the most impressive startup started out of Southeast Asia: https://fortune.com/2025/04/22/exclusive-supabase-raises-200-million-series-d-at-2-billion-valuation/
+[2025-04-23, 11:46:01] andre: the only SEA connection is that the founder was a co-founder at servishero right?
+[2025-04-23, 11:47:35] Daniel Cerventus Lim: Sadly yes. Hahaha.
+[2025-04-23, 11:48:23] andre: welcome mike! what are some of the process that you are looking to automate?
+[2025-04-23, 11:50:56] ~ Mike Chu: I have a couple ideas in my head already and I want to find possibilities on how to do it, I am sure someone experienced here can work on the execution, mind if we set a discovery call?
+[2025-04-23, 12:13:55] ~ longlife: @60164221018 happy to chat with you on your ideas
+[2025-04-23, 12:14:37] ~ longlife: And help where I can
+[2025-04-23, 12:14:47] ~ Mike Chu: when ure back in Ipoh we chat more
+[2025-04-23, 16:09:41] ~ longlife: I am stuck with my app and unable to take it further. can anyone review it and help me make it work, its a AI voice chat app, just like talking to ai, https://a0.dev/chat/35d10330-d0ca-4e5f-a5b9-ce867b05e0ed
+[2025-04-23, 16:09:59] ~ longlife: Any help much appreciated 🙂
+[2025-04-23, 16:11:27] ~ Z: Is this public share link?
+It’s redirecting me back to main page
+[2025-04-23, 16:12:03] ~ longlife: Can you try again please
+[2025-04-23, 16:12:53] andre: Check the link. Somehow it led back to the main page
+[2025-04-23, 16:16:36] ~ longlife: Let me try another way
+[2025-04-23, 16:35:12] ~ longlife: https://couple-coach-1745215960265.app.a0.dev
+[2025-04-23, 16:35:17] ~ longlife: can we try this instead
+[2025-04-23, 16:39:20] ~ longlife: the app does not respond when we speak to it
+[2025-04-23, 16:48:34] ~ Z: You know I can’t diagnose anything just from the front end right 
+Is there some sort of log  
+Or debug mode enabled
+[2025-04-23, 16:49:50] ~ longlife: Okay let me try I have to share the project with you
+[2025-04-23, 16:50:07] ~ longlife: Let see if you can do it over a link
+[2025-04-23, 17:11:50] andre: https://www.loom.com/share/d64588e0a2d7447e8dbd6d0a51c07789?sid=b83c28ef-ecd5-4049-a519-94ee6edb6af2
+
+@60145642278  found the likely error. I recorded a short video here to guide you on how to troubleshoot future errors so you could work with a0 to solve it :) ‎<This message was edited>
+[2025-04-23, 17:26:15] ~ longlife: Thank you very much I’ll try
+[2025-04-23, 17:26:58] ~ longlife: Really appreciate the video
+[2025-04-23, 17:27:08] ~ longlife: Let me try and get back to you
+[2025-04-24, 12:55:43] andre: Vibe coded an MVP for a UK based client. They wanted a location based gig worker mobile app. This was done in 2 hrs. I believe the potential for vibe coded apps is huge globally. There will always be demand to build new projects. Should I do a live session soon?  
+https://a24c3417-74e4-4e6f-ad51-3925d4e3366d-00-1lw71um3w4d7u.picard.replit.dev/
+‎[2025-04-24, 12:55:45] andre: ‎image omitted
+[2025-04-24, 12:55:58] ~ longlife: Yes
+[2025-04-24, 12:57:50] ~ longlife: I tested it did you get my applications ?
+[2025-04-24, 12:57:56] ~ longlife: What stack are you vibe coding with
+[2025-04-24, 12:58:16] andre: Yup haha
+[2025-04-24, 12:58:29] ~ longlife: I am have now tried all of it, windsurf, lovable, Ao.dev, not sure which one to settle with
+[2025-04-24, 12:59:03] ~ longlife: Also i have two computers can i replicate a project and pickup on another PC ?, without redownliading the files agian
+[2025-04-24, 12:59:21] andre: This is using Replit and Firebase
+[2025-04-24, 12:59:33] ~ longlife: my coding skill is minimal but i understand the what is what
+[2025-04-24, 13:01:18] ~ longlife: What has been best stack for you I imagine you have tried a few ?
+[2025-04-24, 13:02:00] Tze Jin Shee: There is no best best stack. each have their own specialization. For general. Just use cursor.
+[2025-04-24, 13:03:25] andre: Of course. Create a GitHub repo and pull the project folder to your IDE (cursor/windsurf/ vs code etc). This update your local files with any changes directly from GitHub. After you finish stage your changed files, commit them and push it to the cloud. This uploads your changes to GitHub
+[2025-04-24, 13:03:53] andre: Tldr 
+1. Pull before you start working 
+2. ⁠push after you finish
+[2025-04-24, 13:04:15] ~ longlife: so i have to do this everytime right
+[2025-04-24, 13:04:31] ~ longlife: it does not directly tweak the git files on the cloud ?
+[2025-04-24, 13:05:00] andre: It does when you push. Think of it like save document
+[2025-04-24, 13:05:15] ~ longlife: okay i got you.
+[2025-04-24, 13:05:30] ~ Z: More like snapshots
+[2025-04-24, 13:05:35] ~ longlife: If you can record how you did this will be great
+[2025-04-24, 13:06:38] andre: Haha I never thought people will be interested to see a Timelapse of me working 😅
+
+Spoiler alert: pretty boring lol ‎<This message was edited>
+[2025-04-24, 13:07:41] ~ longlife: lovable and windsurf are different products right one is a code editor and another build out entirely the whole thing. Is this correct ?
+[2025-04-24, 13:08:31] Tze Jin Shee: We want lofi andre asmr
+[2025-04-24, 13:09:27] ~ Z: Software Development stack really depends on what you are using it for
+
+Stick to the common ones like react / php etc depending on your use case 
+
+Loveable does all on browser + virtual hosted environment, ready to be deployed
+
+Windsurf is a fork of visual studio with agentic features built in that you can test & deploy manually
+[2025-04-24, 13:10:11] ~ Z: Make sure to use those mechanical keyboard
+[2025-04-24, 13:16:40] ~ longlife: Would you know which of them is the simplest to compile and submit to App Store and Play Store, Tablet and Smartphone resposive design. @60122531899 Ao.dev seems to have an app compiler
+[2025-04-24, 13:42:53] andre: for mobile A0.dev is best for mobile apps. Its built for mobile. the others agentic tools are more web based. you can also create with react native (for android) or swift (for ios) on cursor/windsurf
+[2025-04-24, 13:44:24] Tze Jin Shee: I think 🤔 gonna be hard to complete Apple App Store requirement by urself especially if u not familiar with the whole development cycle or Xcode. I think u should have no problem on google play store
+[2025-04-24, 13:48:11] ~ Z: https://youtu.be/hZeprLzd6xM?si=Vh6X0VMygio1pz4L
+‎[2025-04-24, 13:55:20] andre: ‎video omitted
+[2025-04-24, 14:03:27] ~ Z: Proper frontend and backend coding + deployment without any particular dependencies or tied down to any particular providers
+[2025-04-24, 14:05:11] ~ longlife: Thanks Jin
+[2025-04-24, 14:05:16] ~ longlife: Only one way to learn
+[2025-04-24, 14:05:21] ~ longlife: Is to do it ! lol
+[2025-04-24, 14:05:27] ~ Z: Yep
+[2025-04-24, 14:05:44] ~ Z: You can always ask your Ai agent for help to guide too
+[2025-04-24, 14:05:56] ~ longlife: Haha yes
+‎[2025-04-24, 18:38:00] Daniel Cerventus Lim: ‎image omitted
+‎[2025-04-24, 19:11:20] andre: ‎image omitted
+[2025-04-24, 19:11:50] Tze Jin Shee: wow
+[2025-04-24, 19:12:01] Tze Jin Shee: I go sign up for ditto before haha
+[2025-04-24, 19:12:05] Tze Jin Shee: *got
+[2025-04-24, 19:18:01] ~ longlife: @60136353888 gutted I missed this but in Ipoh today unfortunately could not reschedule but if there is a live stream heheh ‎<This message was edited>
+[2025-04-24, 19:18:22] Daniel Cerventus Lim: Nope. Sorry
+[2025-04-24, 19:19:12] ~ longlife: Next one 👍🏾👍🏾
+[2025-04-24, 19:19:27] ~ longlife: Hope I can make it
+[2025-04-24, 22:08:12] Tze Jin Shee: @60122531899 got the list of the google form?
+[2025-04-24, 22:08:48] andre: It with Joseph
+[2025-04-24, 23:43:55] Tze Jin Shee: ‎This message was deleted.
+[2025-04-25, 05:06:36] Daniel Cerventus Lim: https://youtu.be/xDwR1_vrIg8?si=Yt9yrD2YoLYYBV1r
+‎[2025-04-25, 12:15:39] Tze Jin Shee: ‎image omitted
+[2025-04-25, 12:15:46] Tze Jin Shee: Vibe coding fail 😂
+[2025-04-25, 12:16:12] Tze Jin Shee: When vibes coder that dunno how to do stripe api.
+[2025-04-25, 12:16:29] Tze Jin Shee: And let front end script to send in the value of the item to checkout.
+[2025-04-25, 12:17:12] Tze Jin Shee: So people modify the value and pay 0.5usd to get 49usd worth of item.
+[2025-04-25, 12:17:29] Tze Jin Shee: And he still no idea what go wrong 😑
+[2025-04-25, 12:19:48] andre: I don’t know this too. You should do a walkthrough tutorial on how to avoid this from happening
+[2025-04-25, 19:40:01] andre: Tried multiplayer mode. Still very buggy. Not recommended. If you’re into team coding, better use tempolabs
+[2025-04-25, 20:31:24] Daniel Cerventus Lim: Yeah. @60162958640 moving us to roo code
+[2025-04-25, 20:37:52] ~ Eason Chai - ELVTD: Lovable is really bad 😂
+[2025-04-25, 20:39:20] Daniel Cerventus Lim: Scaffolding lo
+[2025-04-25, 21:19:01] ~ longlife: any experts on snowflake or databricks here ?
+[2025-04-25, 21:37:31] ~ Z: You want to add analytics?
+[2025-04-25, 21:40:41] ~ longlife: Want some predictions capabilities
+[2025-04-28, 16:59:36] andre: I love this post by Greg isenberg. There’s really no reason not to start building your own project now. Sure some could fail. But you learn more from it than 10 years of working in corporate. Build your project in public and let the tribe come to you. 
+
+https://x.com/gregisenberg/status/1916494334913823115?s=48
+[2025-04-28, 17:00:47] ~ longlife: Thanks Andre definately very helpful
+[2025-04-28, 17:00:49] ~ longlife: post
+[2025-04-28, 17:41:38] Tze Jin Shee: true story, i too lazy to write a lua script for my iot device.
+[2025-04-28, 17:42:09] Tze Jin Shee: so i just paste my other lua code and screenshot the china board pin layout in chinese
+[2025-04-28, 17:42:37] Tze Jin Shee: and it give me a code that work so much better and simpler than what i wrote last year.
+[2025-04-28, 17:42:46] Tze Jin Shee: and i ask it to generate documentation now
+[2025-04-28, 17:58:11] ~ longlife: Does it work ?
+[2025-04-28, 17:59:00] Tze Jin Shee: yeah, but the main point is u need to know what to do first.
+[2025-04-28, 17:59:13] Tze Jin Shee: I doubt it can start writing one just like tat
+[2025-04-28, 18:10:41] ~ JT: ‎~ JT requested to join
+[2025-04-28, 18:10:52] ~ JT: ‎~ JT joined using this group's invite link
+[2025-04-28, 18:28:04] ~ Jarod: ‎~ Jarod requested to join
+[2025-04-28, 18:28:46] ~ Jarod: ‎~ Jarod joined using this group's invite link
+[2025-04-28, 18:29:38] Chrissy Hu: ‎Chrissy Hu requested to join
+[2025-04-28, 18:29:46] Chrissy Hu: ‎Chrissy Hu joined using this group's invite link
+[2025-04-28, 19:00:22] ~ Michael Kwan: ‎~ Michael Kwan requested to join
+[2025-04-28, 19:05:17] ~ Michael Kwan: ‎~ Michael Kwan joined using this group's invite link
+[2025-04-28, 19:13:20] andre: Hello @60165361537 , @601137855378 , @60172063684 , @60163281323 welcome to the community! 
+
+This is a curated community. We’re mostly non technical folks that build apps with AI. The goal is to go from that idea in your head to something clickable on the web in less time it takes you to learn JavaScript and python. 
+
+Do share a short intro of yourself to the community, where you are at in your AI journey, specific ideas that you wanna build, and your biggest hurdles starting. We’do our best to help out :) ‎<This message was edited>
+[2025-04-28, 19:14:55] ~ Jarod: Hi all, I’m Jarod. Nice to meet ya’ll. Currently playing around with Cline and Google Gemini API
+[2025-04-28, 19:15:38] ~ Jarod: Any ideas to get some free LLM APIs with generous rate limits?
+[2025-04-28, 19:17:21] Tze Jin Shee: Open router got free one. But u better stick to a good model. Each model have their own weird behavior.
+[2025-04-28, 19:17:37] Tze Jin Shee: Gemini is notorious generated try print all the time
+[2025-04-28, 19:18:41] ~ Michael Kwan: Hi, Michael Kwan here, casual tinkerer, semi-technical, new to vibe coding but not to AI on the whole. Was only using cgpt for the most part until the tools started catching up. Now am catching up with AI and wanna start by building an app for my community, similar to Ensim I guess, a place to take the conversation out of FB and into a platform-agnostic app to connect with trusted users and bizs/shops.
+
+The last event was cool and introduced me to Lovable. I guess right now I'd appreciate a quick suggestion of work flow, eg chatprd>lovable>then what? I can self-youtube from there. Many thanks in advance.
+[2025-04-28, 19:21:51] ~ samuel: ‎~ samuel requested to join
+[2025-04-28, 19:22:28] ~ samuel: ‎~ samuel joined using this group's invite link
+[2025-04-28, 19:22:31] andre: Building is one aspect. the next is getting them in front of an audience. We've got a GTM expert in @60165361537 here :)
+[2025-04-28, 19:39:17] ~ samuel: Hi! samuel here, I have a tech/finance background and actually just graduated (somewhat recently), currently working as a software engineer. At the moment, i've recently just started to integrate AI agents into my workflow rather than single gpt usage for pretty much everything from generating docs, explaining third party code and sometimes my own code, and refactoring entire userflows (ai works wonders across multi-module projects, never felt so powerful haha).
+
+ For now, i'm working on an app which allows retail investors/traders to sync up transactions from their brokers to a webapp rather than manually inputting them into a spreadsheet.
+[2025-04-28, 19:50:01] Daniel Cerventus Lim: Hey quick one. 
+
+Any AI talk tmr by Meta? Asking for a friend
+[2025-04-28, 20:18:17] ~ JT: hi everyone, Johnny here
+I’m in B2B SaaS sales & have some experience in B2C as well
+
+i just getting started on this AI journey & personally i tried coding and i think i am bad at it, so gave up until saw Andre’s vibe coding vid in linkedin 
+
+am looking into if can vibe code something like glassdoor then would be great for a start for myself
+‎[2025-04-28, 21:11:32] andre: ‎video omitted
+[2025-04-28, 21:11:43] ~ Z: Try Roocode instead
+[2025-04-28, 21:12:13] ~ Jarod: Heard that Roocode is a fork of Cline.
+[2025-04-28, 21:12:39] ~ Jarod: What Roocode has that Cline doesnt?
+[2025-04-28, 21:12:57] ~ Z: Yes - the team releases more features than cline
+[2025-04-28, 21:13:29] ~ Z: Try their boomerang mode or orchestrator mode for coding it breaks down into subtask and codes in smaller batches
+[2025-04-28, 21:47:29] ~ Z: Neat
+[2025-04-28, 21:48:05] ~ Jarod: Nice will try it out
+[2025-04-28, 21:51:47] ~ LKaanthan: ‎~ LKaanthan requested to join
+[2025-04-28, 21:52:34] ~ Z: I heard Gemini is doing great with coding, have yet to try it out for few weeks now, I’ve built a few complex systems using roocode + Claude sonnet 3.5 late February ~ early March 
+
+Since then there’s too many new features,  changes released, plus I’ve been reading on Reddit, there are  some better coding models out right now need to catch up again haha 😆
+[2025-04-28, 21:54:32] ~ LKaanthan: ‎~ LKaanthan joined using this group's invite link
+[2025-04-28, 22:14:45] Tze Jin Shee: Qwen3-235-A22B (MoE-235B, activate 22B)
+Qwen3-30B-A3B (MoE-30B, activate 3B)
+Qwen3-14B
+Qwen3-8B
+Qwen3-4B
+Qwen3-1.7B
+Qwen3-0.6B
+[2025-04-28, 22:15:00] Tze Jin Shee: Can’t wait for this.
+[2025-04-28, 22:23:34] ~ Henry Ho: ‎~ Henry Ho requested to join
+[2025-04-28, 22:26:45] ~ Henry Ho: ‎~ Henry Ho joined using this group's invite link
+[2025-04-28, 22:50:13] ~ Henry Ho: • Who are you?
+• Where are you in your AI coding journey?
+• What do you want to build?
+
+Hi everyone, thank you for having me! My name is Henry, I have Psychology background and pivoting into UI/UX and coding. In my AI coding journey, I am self-learning front-end development and want to dive deeper into AI coding. I would like to build mental health related apps or websites such as apps for people to easily find mental health services, startups or therapy and potentially building my own tech startup. I'm also interested to see how I can help the  community tackle social issues with AI. My #1 blocker for starting out is overwhelm with too much information like tutorials but lack of real-world practice creating something on my own
+‎[2025-04-29, 11:25:54] andre: ‎Contact card omitted
+[2025-04-29, 11:26:03] andre: Perplexity just dropped on WhatsApp today
+[2025-04-29, 11:26:18] andre: Can do more than chatgpt WhatsApp
+[2025-04-29, 11:36:20] Tze Jin Shee: Qwen3 drop. So far it work pretty well. I gonna try build local LLM coding machine
+‎[2025-04-29, 11:56:21] James Yeang: ‎image omitted
+‎[2025-04-29, 11:57:24] James Yeang: ‎image omitted
+‎[2025-04-29, 11:58:42] andre: ‎image omitted
+‎[2025-04-29, 11:59:54] Tze Jin Shee: ‎image omitted
+‎[2025-04-29, 12:02:45] andre: ‎image omitted
+[2025-04-29, 12:18:30] ~ Fakhrur Razi: ‎~ Fakhrur Razi requested to join
+[2025-04-29, 12:25:53] Tze Jin Shee: Is Gemini 2.0 flash. I just systemprompt it out haha
+[2025-04-29, 12:27:34] ~ Fakhrur Razi: ‎~ Fakhrur Razi joined using this group's invite link
+[2025-04-29, 12:36:05] Tze Jin Shee: Damn good to automate voice note translate. I just forward a bunch of voice note and it summarize what it say to me.
+[2025-04-29, 12:39:36] Tze Jin Shee: Previously ChatGPT can’t do it.
+[2025-04-29, 12:40:25] Daniel Cerventus Lim: Hello
+[2025-04-29, 12:40:37] ~ Eason Chai - ELVTD: Sadly can’t generate pdf files for me 🥲
+‎[2025-04-29, 12:49:55] Tze Jin Shee: ‎image omitted
+[2025-04-29, 12:53:45] Tze Jin Shee: And it also ads free haha
+[2025-04-29, 12:57:42] ~ longlife: Hi Henry welcome to the group you have a unique skill set and I’m sure you will achieve your goal of building your own health start up
+[2025-04-29, 13:41:56] ~ LKaanthan: • Who are you?
+• Where are you in your AI coding journey?
+• What do you want to build?
+
+Hi All, my name is Kaanthan. I am an engineer by training. I spent most of my working time in O&G and later in Data Analytics. I have held roles that help clients with solutions, be it processes or technology. 
+I am very new with AI coding. Currently, dabbling with Lovable and n8n. Since I am not a techie, I lack the knowledge and confidence and am looking to learn by doing and from all the good people here. I am ready to help you where I can as well. 
+I am looking to build app(s) that can automate processes within the sales or customer success functions. 
+I look forward to meeting/speaking/sharing with you. 
+Thank you.
+[2025-04-29, 14:30:33] Daniel Cerventus Lim: ‎This message was deleted.
+[2025-04-29, 15:47:17] Tze Jin Shee: wow
+[2025-04-29, 17:40:40] ~ Michael Kwan: To those new to Lovable, there's an onboarding livestream at midnight: https://www.youtube.com/watch?v=N00W3KmPrFE ‎<This message was edited>
+[2025-04-29, 17:41:09] Daniel Cerventus Lim: Sent to wrong chat
+[2025-04-29, 17:42:23] ~ Michael Kwan: Correct ah
+[2025-04-29, 17:42:50] Daniel Cerventus Lim: Me. Hahaha. Supposed to send your message to jin regarding the court case
+[2025-04-29, 17:43:15] ~ Michael Kwan: ohh haha. achelly i sent to him too
+[2025-04-29, 17:43:37] Daniel Cerventus Lim: Hahaha oh well wtf
+[2025-04-29, 17:43:40] Daniel Cerventus Lim: Hahaha 🤣
+[2025-04-29, 17:51:31] ~ longlife: Hi Kanthan happy to help anytime reach out and can share with you whatever have learnt so far
+[2025-04-29, 17:56:45] ~ longlife: My is Giri. I have been in product development and software development projects for 12 years now. I specialise in scrum and Agile methodologies to develop products. I have worked on various technolgies information technology and operational technology. I am firm believer in the lean startup methodology. I’m currently building a software to manage a family Office for a client in Hong Kong. We are going to use mostly AI to build this. The software is also so is solving my own pain point as a manage family office. To those who run  offices or personal wealth needs to be managed would  love to talk to you.
+[2025-04-29, 18:37:52] ~ Melissa Lim Shi Hui: ‎Daniel Cerventus Lim added ~ Melissa Lim Shi Hui
+[2025-04-29, 18:38:17] ~ Melissa Lim Shi Hui: Thank youuu
+[2025-04-29, 18:38:47] ~ Melissa Lim Shi Hui: Hi everyone! I'm just learning vibe coding today. Using Google sites for website tho...
+[2025-04-29, 18:39:08] ~ Z: What you want to make Mel?
+[2025-04-29, 18:43:04] ~ Melissa Lim Shi Hui: Website!! I own a law firm. I have a very simple website rn. But I really wanna make it more interactive and interesting.
+
+The first page I wanna make is an article page. I kinda want it to reflect socmed sort of vibe cause I post a lot on FB groups
+[2025-04-29, 18:45:51] ~ Melissa Lim Shi Hui: Hii @60163281323 👋👋 ‎<This message was edited>
+[2025-04-29, 18:46:25] ~ Melissa Lim Shi Hui: Wouldn't it be so cool to have a website that live updates from socmeds automatically
+[2025-04-29, 18:48:10] ~ Michael Kwan: That's easy, just embed your posts/page 😁
+[2025-04-29, 18:49:29] ~ Melissa Lim Shi Hui: Nuuu want it to look cooll
+[2025-04-29, 18:56:23] ~ Z: You can do it the other way around 
+Post to your web - ie.wordpress and it auto shares to social media - fb/insta/twitter etc 
+with a summary / snippet + link 
+
+Most
+[2025-04-29, 19:33:03] ~ Melissa Lim Shi Hui: Oh that's true!
+[2025-04-29, 21:21:08] Tze Jin Shee: One step further. Browse and screenshot a curated socmed and then summarize and post as Ai article
+[2025-04-29, 21:21:41] ~ Z: Wah
+[2025-04-29, 21:24:03] Tze Jin Shee: I wanna try do the Joseph roastbot using purely just perplexity WhatsApp bot as the main interface.
+[2025-04-29, 21:24:06] Tze Jin Shee: 😂
+[2025-04-29, 22:01:54] ~ LKaanthan: Thank you 😊
+[2025-04-30, 07:36:00] Tze Jin Shee: MLX finally updated Qwen3 support :D
+[2025-04-30, 08:24:35] Tze Jin Shee: Experiment with dynamic quant qwen3-128k to do local coding LLM.
+[2025-04-30, 08:25:27] Tze Jin Shee: I think is good to invest in a Mac Studio now. Mac mini 16gb won’t cut it. Each token windows increase is a huge memory
+‎[2025-04-30, 08:25:42] Tze Jin Shee: ‎video omitted
+[2025-04-30, 10:29:25] ~ Z: Wah
+[2025-04-30, 10:29:36] ~ Z: Max out memory
+[2025-04-30, 14:52:02] ~ Fakhrur Razi: Hello everyone, just found this & want to share with you guys about VibeCoding tools, more focus to Cursor
+
+https://youtu.be/XcVj8zzK4ss?si=mQ0vpvxkJ80AQOBG ‎<This message was edited>
+[2025-04-30, 14:57:41] andre: Thanks for sharing man! Plenty of tools out there. Pick one or two and make it your stack and then start building. Otherwise you’ll just suffer from tools paralysis from chasing the next shiny object
+[2025-04-30, 15:00:00] Tze Jin Shee: Yeah. Just use it. Is not like they put a knife ask u to choose
+[2025-04-30, 15:00:57] andre: My vibe coding stack 
+1. chatprd/snapprompt for product brief and prompt design 
+2. ⁠lovable for front end and scaffolding 
+3. ⁠supabase for backend services 
+4. ⁠OpenAI for AI integration
+5. ⁠Windsurf for logic and edge functions 
+6. ⁠vercel for deployment ‎<This message was edited>
+[2025-04-30, 15:02:02] ~ longlife: Thanks
+[2025-04-30, 15:02:41] ~ Melissa Lim Shi Hui: thank youu
+[2025-04-30, 15:03:06] Tze Jin Shee: Mana v0
+[2025-04-30, 15:03:13] andre: Sure people will be like why not use cursor, why not use Gemini, why not use bolt, why not use v0, why not use DeepSeek API etc. thing is you can and it’s really up to you. Pick what works for you ‎<This message was edited>
+[2025-04-30, 15:56:38] Tze Jin Shee: Qwen 8B seem to be better than 14B. What a weird world we live in now. 
+
+The whole qwen3 model is gear toward Apple and China sme. Design to run on a single instance.
+‎[2025-04-30, 16:01:32] Tze Jin Shee: ‎image omitted
+[2025-04-30, 16:01:44] Tze Jin Shee: Elon gonna launch grok 3.5
+[2025-04-30, 17:02:06] ~ Michael Kwan: I'm signing up for Gamma - anyone has promo codes or referral links smth like that?
+[2025-04-30, 17:02:16] Daniel Cerventus Lim: Wait let me send you
+[2025-04-30, 17:02:57] Daniel Cerventus Lim: Use this. 
+https://gamma.app/signup?r=93ehf26l7ttbpiu ‎<This message was edited>
+[2025-04-30, 17:04:44] ~ Michael Kwan: yus, dapat bonus credits tq
+[2025-04-30, 17:05:10] Daniel Cerventus Lim: Thanks
+[2025-04-30, 17:05:13] ~ Michael Kwan: It's fitting, since I heard about Gamma from you anyway haha. Thamks
+[2025-04-30, 17:06:46] andre: Haha was gonna share mine. But yea if you folks are trying out a new software, better ask in the community first. Could get bonuses lol
+[2025-04-30, 17:16:51] ~ Eason Chai - ELVTD: Btw for those using cline/roocode, as I start moving to larger codebases, Gemini 2.5 pro has been performing much better than Claude, and cheaper too
+[2025-04-30, 17:17:13] ~ Z: Yes I noticed that too
+[2025-04-30, 17:17:43] ~ Z: Claude context window of 200k is not cutting it anymore
+[2025-04-30, 17:18:51] ~ Eason Chai - ELVTD: Yup, and Gemini sticks to my existing code writing style and structure but Claude doesn’t even when prompting it to do so
+[2025-04-30, 17:34:07] Tze Jin Shee: ‎This message was deleted.
+[2025-04-30, 18:13:36] ~ 👍: ‎~ 👍 requested to join
+[2025-04-30, 18:46:26] ~ 👍: ‎~ 👍 joined using this group's invite link
+[2025-04-30, 18:55:50] ~ 👍: Hi everyone,
+My name is Fahmi , a data scientist from Kuala Lumpur,Malaysia, I graduated in BSC in Physics from University of Malaya, currently accumulating 1.5 years of experience in IT industry that involves Ai and data science product, survey analytics,little bit ads analytics.My skills are on API programming using FastApi, buiding web apps using Streamlit and Gradio, Analytical and statistical Programming...I frequently used Chatgpt, Grok, Claude, and Mistral , Source code from Github Documentation ,huggingface and AWS Documentation, I love vibe coding, and I can build mini AI apps with Streamlit in less than a day working hours. My number #1 blocker in building Micro-SaaS is the challenge to do Frontend and Backend, for frontend is very difficult to produce a good UI ,most of the time i found that choosing our template online is the perfect pragmatic way, also for the backend, I dont know where can I freely deploy my backend and integrate it smoothly like right now , i just know supabase to store data, but I dont know where free service like Cloudflare, i have tried this to do services for my backend telegram, but can just do it locally , dont know how to deploy to cloudflare
+
+
+Below is the link to my Github and linkedin for your reference
+
+https://github.com/fahmizainal17
+
+
+https://www.linkedin.com/in/fahmizainal17
+[2025-04-30, 19:01:23] andre: Welcome Fahmi. You’re probably more tech savvy than most of us here haha. On your challenges on front end your best bet is to get inspiration from sites like dribble and behance, and then using one of the llm to clone the UIs. It does a pretty not bad work. Otherwise copycoder does a decent work at cloning too. https://copycoder.ai/ ‎<This message was edited>
+[2025-04-30, 19:23:53] andre: https://x.com/levelsio/status/1917532074258411523?s=46
+
+This thread say what we want to say about how vibe coding is getting harder. 
+
+TLDR by grok: 
+- Imagine vibe coding like painting with a magic brush. You describe a simple picture, like a tree, and the brush (AI) paints it instantly, letting you create freely. It's perfect for small, fun artworks. 
+- ⁠But for a huge mural with detailed scenes, the brush gets sloppy, mixing colors or missing details. You must fix tiny parts manually, which feels less magical. The result is messier than if you'd painted it yourself. 
+- ⁠Vibe coding shines for quick, small projects but struggles with big, complex ones, though future AI improvements might make it smoother.
+[2025-04-30, 20:02:04] James Yeang: What are your thoughts about vibe coding individual features to keep things small . Then linking them up to be a more complex use case
+[2025-04-30, 20:02:19] ~ Z: Cloudflare has other services too from workers, pages, r2 (similar to Supabase) object storage etc 
+Mostly has generous free tier too
+[2025-04-30, 20:12:19] ~ Z: You can build a full complex system actually as long as you have some knowledge in coding and know when to stop it from halucinating ( based from my experience), and breaking down into smaller task manually)
+
+As for breaking down the task there are boomerang mode in cline / roo code that does simple things 
+
+There’s tool called taskmaster that breaks down the task into smaller sections from your prd file and monitors its development process 
+Pretty much all tools like cursor / cline / roocode can use it too
+[2025-04-30, 20:18:07] ~ Z: As for project development part 
+You can use the ai tools either perplexity / antropics / cursors / lovable etc  too generate one and modify it accordingly ‎<This message was edited>
+[2025-04-30, 20:54:31] ~ Z: https://youtu.be/GUJl9RWw7xs?si=4ug_XYGZ1El7-9bB
+
+Found a video using taskmaster on cline 
+Requiring Claude & perplexity api
+[2025-04-30, 21:50:30] andre: We’re looking to organise a weekend community meetup this month (May). Gonna be a live walkthrough on the fundamentals of vibe coding and making sure you folks take action to get started on building and shipping your first project. Would like to do a quick headcount who’ll be keen to join in and then we’ll look for a suitable location close to all. 
+
+Respond with a 🙌 emoji if you’re joining. 
+
+If you’re keen but not confirmed, reply with a 🤔 emoji
+
+If not keen don’t need to respond. ‎<This message was edited>
+[2025-04-30, 21:50:51] ‎You: ‎You pinned a message
+[2025-04-30, 22:06:46] ~ longlife: May not around part of the month but if end of the month will be there
+[2025-05-01, 12:29:08] ~ longlife: @Everyone I have created an IT crash course terminology and have made it public so you can go and have a look - if you would like edit access to add to this knowledge base please let me know you can edit it and improve it but l hope to keep it high level for non it folks thank you :) 
+
+https://docs.google.com/spreadsheets/d/1MjpgkLsT8X4D8jmlwGlGOWd2SJFWS8X0TJ7cSf-PKKM/edit?usp=sharing
+[2025-05-01, 12:59:01] Tze Jin Shee: Nice effort. Although nowadays I just ask those not so savvy one just use ChatGPT and they will explain it.
+[2025-05-01, 13:01:38] ~ longlife: Hopefully it helps
+[2025-05-01, 13:03:03] ~ longlife: Or community can help improve
+[2025-05-01, 21:09:46] ~ Fakhrur Razi: Nice simple project 🤩
+
+https://vt.tiktok.com/ZSh8bKx7v/
+[2025-05-02, 15:32:11] andre: https://seavc.at5678.com/
+completed building it finally. You guys get a first look. use it but please don't spam. AI credits are not cheap 😭
+[2025-05-02, 15:35:58] andre: How it works:
+1. fill up your project details
+2. Confirm your fundraising brief
+3. AI will process shortlist a list of suitable investors based on your brief and their investment profiles
+4. You can directly get an intro to the shortlisted VC by sending an email connection (also AI enabled) ‎<This message was edited>
+[2025-05-02, 15:37:26] andre: I'll share my learnings later in a short post
+[2025-05-02, 15:38:10] Tze Jin Shee: can create fake profile first or not
+[2025-05-02, 15:39:38] andre: Haha I should have a paywall for this. Like you can make 5 free queries then pay for extra
+[2025-05-02, 15:40:11] andre: But no paywall now so feel free. But if you put in rubbish info. You’ll probably get rubbish output lol
+[2025-05-02, 15:54:01] Tze Jin Shee: yeah...the AI didn't help me rewrite much haha
+‎[2025-05-02, 15:54:20] Tze Jin Shee: ‎image omitted
+[2025-05-02, 15:55:04] andre: Haha it’s not meant to change much what you wrote. Programmed it with a low temperature ‎<This message was edited>
+[2025-05-02, 16:02:25] andre: The email works too. But as I have not gotten explicit permission from the investors on the list (publicly sourced). It goes into a test email account on resend. I could imagine if this went uncontrolled and the inbox of a poor analyst blows up with 50 meeting request emails lol
+[2025-05-02, 16:08:26] ~ 👍: Great it says, It gets from the Public Data, where can we see this data
+[2025-05-02, 16:11:13] andre: Combination of web scrapping, tia investor list, and other public databases
+[2025-05-02, 19:06:31] andre: https://www.linkedin.com/posts/andreteow_tried-fixing-a-bug-by-yelling-fix-it-didn-activity-7324025316065058816-3ggp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAATOcxoB1uvGJSARL_uVrxqmkhq_tsIOrog
+[2025-05-02, 19:18:39] andre: *Lesson 1: Always start with a mini PRD*
+Before I asked AI to build anything, I wrote a simple doc explaining the problem, who it’s for, and how it’s supposed to work. I treated it like I was briefing a junior teammate. I told the AI: “Don’t make stuff up.” Because if a founder says they have 50 users, I don’t want the AI pitching them as a Series A rocketship. That doc kept things tight and on track.
+
+*Lesson 2: Don’t guess the UI. Show it.*
+I used to just describe how I wanted the app to look. Now? I grab 1–2 screenshots from Dribbble or Behance and paste them straight into the prompt.
+“Make it clean like this. Minimal, not corporate.” It sounds simple, but it changed everything. AI responds *way* better when you give it visual vibes to work with.
+
+*Lesson 3: Think like you’re building a team*
+I didn’t dump everything into one prompt. Instead, I broke the app into 3 small jobs:
+- One AI cleans up the startup brief
+- One AI finds matching VCs
+- One AI writes the custom emails
+Each of them had a clear role and a different prompt. It’s like managing a squad of interns who never sleep.
+
+*Lesson 4: When things break, check the console*
+This one was painful. I’d be yelling at Lovable “Fix it! It’s broken!” But nothing changed… until I opened the browser console. Turns out, the error logs literally told me why things weren’t working. missing data, API errors, logic breaks etc. Now I debug with the console open all the time. It saves hours of guessing and gives AI the info it needs to fix things properly.
+[2025-05-02, 21:01:17] Daniel Cerventus Lim: https://youtu.be/GUJl9RWw7xs?si=R5WWbLD-dwz8r1o2
+[2025-05-02, 21:42:02] ~ Fakhrur Razi: Insightful! ✨
+[2025-05-03, 16:05:09] ~ Z: https://www.youtube.com/watch?v=UGSmZI97Gn4
+
+Thud GLM4 32B another open source coding model with tool calling
+
+Can be installed locally if you got the right amount of ram & quite cheap if called via api too
+[2025-05-03, 16:05:45] Tze Jin Shee: Better use Qwen3-32B with 0.6B draft model
+[2025-05-03, 16:05:53] Tze Jin Shee: If u have that much memory.
+[2025-05-03, 16:06:06] ~ Z: I don’t haha 😆
+[2025-05-03, 16:06:14] Tze Jin Shee: Coding wise I think need to be run at FP8.
+[2025-05-03, 16:06:44] Tze Jin Shee: Small MoE model is bad at coding after few day of testing.
+[2025-05-03, 16:06:50] Tze Jin Shee: Better off use smaller dense model
+[2025-05-03, 16:07:26] Tze Jin Shee: I think due to activated parameter reduce the long token windows processing
+[2025-05-03, 16:07:53] ~ Z: How big is the token window?
+[2025-05-03, 16:08:56] Tze Jin Shee: Qwen is 41k
+[2025-05-03, 16:09:12] Tze Jin Shee: I try the 128k model. My memory burst haha
+[2025-05-05, 12:50:27] ~ Eva: ‎~ Eva requested to join
+[2025-05-05, 12:51:15] Amanda Ong: ‎Amanda Ong requested to join
+[2025-05-05, 12:54:26] Tanabalan Egamaran: ‎Tanabalan Egamaran requested to join
+[2025-05-05, 12:56:15] ~ Eva: ‎~ Eva joined using this group's invite link
+[2025-05-05, 12:56:16] Tanabalan Egamaran: ‎Tanabalan Egamaran joined using this group's invite link
+[2025-05-05, 12:56:17] Amanda Ong: ‎Amanda Ong joined using this group's invite link
+[2025-05-05, 12:57:26] andre: Hi @60178787960 , @60123798446 , @60178698828  Welcome to the build with AI community ! Our mission is to enable you to get that idea out of your head and into the market a quickly as possible
+[2025-05-05, 13:02:10] Amanda Ong: hello! thanks @60122531899 looking forward !
+[2025-05-05, 13:05:57] Tanabalan Egamaran: Thanks, Andre! Glad to be here.
+
+Hi everyone, I'm Tanabalan, a consultant and corporate trainer specializing in Operations Improvement. I also have experience leading startup operations (excluding IT/programming).
+
+My knowledge in AI still basic, done small projects like building simple Excel-based solutions. However, I'm eager to level up and create a platform-based solution to streamline Malaysia’s fragmented and inefficient training industry.
+
+Looking forward for continuous learning !
+[2025-05-05, 13:08:48] Tze Jin Shee: I think u should try n8n workflow.
+[2025-05-05, 13:10:34] andre: Someone shared a cheatsheet on reddit https://www.reddit.com/r/n8n/comments/1jywo0o/i_made_an_n8n_cheat_sheet_updated/
+[2025-05-05, 13:11:13] andre: and if you have 4 hrs, you can check out thjs extremely thorough primer on n8n https://youtu.be/uScURRX-Knc?si=zOdoBMcFC71J0619
+[2025-05-05, 14:09:17] ~ Eva: I'm Eva, currently working in IT sales without a formal background in IT or coding. I'm just beginning my journey into AI and have a lot to learn, but I'm excited to dive in. My goal is to build an AI-powered tool that can help with my sales outreach—automating tasks like personalized messaging, managing follow-ups, and improving overall efficiency in connecting with prospects.
+[2025-05-05, 15:11:25] andre: hi all. I'm testing with a new type of prd creator. Got a draft for a simple notetaker app. I want to see how well cursor, cline, copilot pro respond to it. anyone wanna volunteer to take it for a test run? PM me and i'll send over a zip file
+[2025-05-05, 15:17:19] ~ longlife: Hi andre I would like to try it
+[2025-05-05, 17:23:52] Kristian Zwart: ‎Kristian Zwart requested to join
+[2025-05-05, 17:24:00] Kristian Zwart: ‎Kristian Zwart joined using this group's invite link
+[2025-05-05, 18:56:21] andre: Welcome @60102697520 ! If you are looking to build your  AI grief tech project, this community should able to provide plenty of guidance
+[2025-05-05, 19:03:06] andre: https://notetaker2-xi.vercel.app/
+The new approach cut down development time by 50%. this was done on windsurf. 
+
+This is a local browser based note book. use it to brain dump any thoughts ideas, or clip articles of interest. If things get to messy, you can choose to organise them with a single click. Everything is stored locally and nothing is stored on servers.
+
+One shot with initial prompt:
+_"I want you to review the files in @prd . start by telling me what you understand about this project, and then proceed to building it. I want to use Next JS. Before you start, I want you to clarify with me any doubts you have so that you know exactly what needs to be done."_
+
+It confirmed the spec. I corrected any errors in its thinking. Then I gave the go ahead for it to start building on its own
+[2025-05-05, 19:03:51] Tze Jin Shee: Total credit?
+[2025-05-05, 19:04:48] andre: 4 ‎<This message was edited>
+[2025-05-05, 19:11:11] ~ Z: Not bad
+[2025-05-06, 14:01:51] Daniel Cerventus Lim: https://youtube.com/shorts/aQ-oE7Qixpo?si=N_059QRt6IWZOwgS
+[2025-05-06, 14:08:28] Daniel Cerventus Lim: https://youtube.com/shorts/CPc8wU9cZ5U?si=U1khgVcRvB7-JCx_
+[2025-05-07, 08:20:23] Daniel Cerventus Lim: https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion
+[2025-05-07, 10:12:55] andre: Woah!
+[2025-05-07, 10:22:47] andre: only problem is that it could lock openAI as the only model available on windsurf. sonnet 3.7 has been outperforming gpt4.1 and o3 is ridiculously expensive. Hopefully their models make improvement over time
+[2025-05-07, 10:38:00] ~ CS Low: ‎~ CS Low requested to join
+[2025-05-07, 10:41:29] ~ CS Low: ‎~ CS Low joined using this group's invite link
+[2025-05-07, 10:47:05] ~ CS Low: Hello everyone, thank you Andre for allowing me to join this awesome community of Build with AI, hope can learn from all and any experience as well. 
+I am Wynce Low, currently running an international school in Puchong for about 9 years. Was in investment banking doing debt capital markets for 20 years (so not young). No experience in coding or technical. Have experience in engaging developers to build apps for us. Hope to build apps with AI ourselves to get to test the idea first. 
+#1 blocker for now, could build a basic html app through SuperGrok but when I want to improve further, it gets stuck (SuperGrok or ChatGPT can’t resolve the issues).
+[2025-05-07, 10:53:25] ~ CS Low: Example is an aptitude test as attached. However when asked SuperGrok to improve the logic or functionality, it got stuck. Also tried to use ChatGPT to resolve, they seem to know the problem but they fixed the codes, other error message came up and can’t even use the html.  🥲
+Would Claude or any other AI tool better at solving the problem? I have subscribed to SuperGrok and ChatGPT, not sure worth subscribing more 😅
+‎[2025-05-07, 10:54:54] ~ CS Low: aptitude_test_working .html ‎document omitted
+[2025-05-07, 11:09:40] ~ Shahbaaz: ‎Daniel Cerventus Lim added ~ Shahbaaz
+[2025-05-07, 11:09:53] Daniel Cerventus Lim: Adding Shahbaaz. One of my buddy here
+[2025-05-07, 11:11:51] andre: Hi Wynce, welcome! The first step in building any app or website is to be clear on what you want it build. it always starts with your brief. Could you describe your idea in detail? The objectives to be achieved, how you see it working (features), and what will the end state look like
+[2025-05-07, 11:22:38] ~ CS Low: Thanks Andre. My thoughts as follows: 
+Objective to build aptitude test that interviewees can practice. There will be different industries , types (logical, numerical, general etc), and level of difficulty. The app marks the test , provide detailed feedback for each question. The questions bank shall be random , no repeat questions or repeat similar types of questions
+[2025-05-07, 11:23:16] ~ CS Low: The current issue is repeated questions and similar types of questions
+[2025-05-07, 13:20:07] ~ Lim: ‎~ Lim requested to join
+[2025-05-07, 13:21:20] ~ Lim: ‎~ Lim joined using this group's invite link
+[2025-05-07, 13:28:16] ~ Lim: Thanks for adding me to the group 😊 Quick intro — I’m Lyness, a former lawyer turned brand agency owner. I currently run a few businesses, and alongside that, I’m deeply passionate about building solutions and launching tech startups.
+
+Although I’m non-technical, I’ve been actively building side projects and internal tools using no-code/low-code platforms, with a bit of help from AI.
+
+Looking forward to connecting and learning from everyone here!
+[2025-05-07, 13:48:32] andre: this is pretty straightforward. You build a questions randomiser that takes in a set number of questions from a document that you upload. For a first draft you can use bolt.new. its pretty easy to set up. Ideally your question bank document should be in CSV file so that that its easier to read
+[2025-05-07, 13:49:04] andre: welcome Lyness! Whats the next project that you are on to :)
+[2025-05-07, 14:27:33] ~ Lim: I'm thinking on building a conversational task management app designed specifically for solopreneurs/small business owners.
+
+Many small business owners, like myself, use ChatGPT or other AI tools to brainstorm ideas, get business advice, or plan their next moves. But after those valuable sessions, there's a gap — we’re left manually adding each task, one by one, into a separate task management platform. It’s tedious and breaks the flow.
+
+I believe there’s real value in a simplified platform where you can think, plan, and act in the same place. This tool will let users brainstorm directly with AI, then instantly convert the conversation into structured tasks — complete with priorities and due dates — and add everything to a task list with a single prompt.
+
+It’s designed to reduce friction, save time, and help solopreneurs move from idea to execution effortlessly.
+[2025-05-07, 14:28:26] ~ Lim: Would love to get feedback from my fellow community members from this group! ‎<This message was edited>
+[2025-05-07, 14:47:26] James Yeang: I feel it's a nice fun project. Many of the task platforms for SMEs already offer a decent amount of AI. Eg. Todoist premium, trello AI etc. 
+
+If you can come up with an angle that's compelling enough to make people switch then perhaps you have a chance. Good luck with this
+[2025-05-07, 15:10:30] andre:
+[2025-05-07, 15:10:50] ‎You: ‎You pinned a message
+[2025-05-07, 15:10:58] ‎You: ‎You pinned a message
+[2025-05-07, 15:11:28] Build with AI: ‎You updated Build with AI meetup (May) 🇲🇾🤖
+[2025-05-07, 16:19:37] ~ Michael Kwan: Solution is already there, just flip the board. Instead of ideating in cgpt, do it in your task management app, most of them are ai-infused anyway, such as Motion & Notion
+[2025-05-07, 20:57:20] Daniel Cerventus Lim: https://www.facebook.com/share/r/18rauCuLPi/?mibextid=wwXIfr
+[2025-05-08, 10:01:31] ~ Mike Chu: anyone got kangtao for Kling.ai subscription?
+[2025-05-08, 10:01:34] ~ Mike Chu: was thinking to try it out
+‎[2025-05-08, 10:01:43] ~ Mike Chu: ‎image omitted
+[2025-05-08, 10:03:40] ~ Shahbaaz: Been using Sora primarily
+[2025-05-08, 10:03:57] ~ Shahbaaz: Haven’t tried , is it different?
+[2025-05-08, 10:05:43] ~ Mike Chu: gonna try it now but from youtube reviews, its much cleaner and realistic compared to Veu
+[2025-05-08, 13:01:04] Build with AI: ‎You updated Build with AI meetup (May) 🇲🇾🤖
+[2025-05-08, 13:10:22] ~ samuel: in the restaurant?
+[2025-05-08, 13:13:41] Daniel Cerventus Lim: Yes.
+[2025-05-08, 13:41:58] ~ Michael Kwan: *Vibe Coding Isn’t Dumb - You're Just Doing It Wrong*
+_(A practical guide for shipping apps with AI & minimal pain)_
+
+Vibe coding gets a lot of hate, especially from “serious” devs. But the truth is: not every project needs to be scalable, secure, or architected like it’s going public on the stock market.
+
+Most of the time, you just want to turn your idea into a working app - fast. Here’s how to do it without driving yourself insane. These aren’t fancy tricks, just things that work.
+
+1. Pick a mainstream tech stack (zero effort, high reward)
+If you're building a basic website, just use Wix, Framer, BlackBoxAI or any other site builder. You don’t need to code it from scratch.
+
+If you need a real web app:
+→ Use Next.js + Supabase.
+
+Yes, Svelte is cool, Vue is nice, but none of that matters when you’re trying to get something done. Next.js wins because it has the largest user base, the most examples online, and AI is most likely to get it right. If your backend needs real logic, add Python.
+
+If you're thinking about building a game:
+→ Learn Unity or Unreal.
+
+Trying to vibe-code a game in JavaScript is usually a dead end. Nobody’s playing your Three.js experiment. Be honest about what you're building.
+
+⚠️ Skip this rule and you’ll burn days fixing the same bugs that AI could’ve solved in seconds - if only you’d picked the stack it knows best.
+
+2. Write a simple PRD (medium effort, high reward)
+You don’t need a fancy spec doc. Just write a Product Requirement Document that does two things:
+
+Forces you to clarify what you actually want.
+
+Breaks the work into small, clear steps.
+
+Think of it like hiring a contractor. If you can’t write down what “done” looks like for Day 1 or Week 1, your AI won’t know either.
+
+Once you’ve got the plan, give the AI one step at a time. Not “do everything at once.”
+
+Example:
+Chat 1:
+"Implement Step 1.1: Add Feature A"
+
+Test it. Fix it. Then:
+
+New Chat:
+"Implement Step 2: Add Feature B"
+
+Bugs compound over time, so fixing them early saves you from a mess later.
+
+3. Use version control (low effort, high reward)
+AI will eventually break your code. Period.
+
+You need a way to roll back. Most tools have automatic checkpoints, but it’s better to use Git. Manual commits force you to actually track progress, so when AI makes a mess, you’ll know exactly where to revert.
+
+4. Provide working code samples (medium effort, high reward)
+Don’t assume AI will get third-party libraries or APIs right just from docs.
+
+Before you start building a full feature, write a small working script that does the core thing (e.g., pull 10 Jira tickets). Once it works, save it, and when you start the real task, pass it back into your AI prompts as a reference.
+
+This small step will save you from wasting hours on tiny mismatches (wrong API version, bad assumptions, missing auth headers, etc.).
+
+5. When stuck, start a new chat with better info (low effort, high reward)
+The "copy error → paste to chat → fix → new error → repeat" cycle is a trap.
+
+When you hit this loop, stop. Open a fresh chat and tell the AI:
+
+What’s broken.
+
+What you expected to happen.
+
+What you’ve already tried.
+
+Include logs, errors, screenshots.
+
+The longer your chat history gets, the dumber the AI gets. A clean context and clear input often solves what endless retries won’t.
+
+Bonus: Learn the basics of programming.
+
+The best vibe coders? They still understand code. You don’t need to be an expert, but if you can’t spot when AI is off the rails, your projects will stall.
+
+Vibe coding actually makes learning easier: you learn by doing, and you pick up real-world skills while shipping real projects.
+
+Src: https://www.reddit.com/r/VibeCodeDevs/comments/1jz25bs/vibe_coding_isnt_dumb_youre_just_doing_it_wrong/
+‎[2025-05-08, 21:13:36] andre: ‎image omitted
+‎[2025-05-08, 21:13:36] andre: ‎image omitted
+‎[2025-05-08, 21:14:47] andre: ‎image omitted
+‎[2025-05-08, 21:14:47] andre: ‎image omitted
+[2025-05-08, 21:15:47] andre: turns out it was easier and faster than expected. Inputs: {bedroom pics, reference bed pics}.
+[2025-05-08, 21:17:13] andre: I'll share a short video end-to-end on how I developed a GPT image wrapper so you folks can follow along. Can go more in depth during our meetup on the 17/5
+[2025-05-08, 21:17:30] ~ Jarod: Is this using OpenAI LLM?
+[2025-05-08, 21:17:59] andre: That’s right
+[2025-05-08, 22:17:27] Ian Goh: ‎Ian Goh requested to join
+[2025-05-08, 22:18:24] Ian Goh: ‎Ian Goh joined using this group's invite link
+[2025-05-09, 06:11:46] ~ longlife: Great work Andre
+[2025-05-09, 07:39:53] Daniel Cerventus Lim: https://youtube.com/shorts/D07m-6Lavek?si=lupH_2CxOgj8w5DN
+[2025-05-09, 08:31:26] ~ LKaanthan: Good stuff Andre
+‎[2025-05-09, 09:41:36] Daniel Cerventus Lim: ‎image omitted
+[2025-05-09, 09:41:51] Daniel Cerventus Lim: Join us for an exclusive hands-on workshop featuring André Teow, a seasoned entrepreneur and founder who helps solo founders turn napkin ideas into working MVPs using AI.
+
+Event Details
+
+What: Learn to build a functional app in hours using Vibe Coding - a revolutionary approach that lets you code in plain English with AI assistanceThe event is FREE with the purchase of at least one drink, hosted at NALE - The Nasi Lemak Company (Pavilion Damansara Heights). While you learn, enjoy Malaysia's beloved nasi lemak dishes including their signature Ayam Bakar with special NALE sauce.
+
+Who Should Attend: Aspiring founders, entrepreneurs, and anyone interested in building digital products without traditional coding skills
+
+Why Attend:
+
+- Discover how to ship a working MVP in hours, not months
+- Learn practical "vibe coding" techniques from an expert
+- Network with like-minded builders in Malaysia's growing AI community
+
+About André Teow
+
+André brings extensive experience as a founder and growth specialist. He previously co-founded Tiki, a TikTok alternative that garnered over 30M+ users. Currently, André runs Blue Bolt Labs, a product studio helping solo founders go from idea to launch in just 21 days using AI.
+
+What is Vibe Coding?
+
+Vibe Coding allows non-developers to build functional applications by describing what they want in plain English. As André puts it: "No coding. Just vibes. If you can order a complicated Starbucks drink, you can VibeCode". This approach leverages AI tools to translate your ideas into working code.
+
+Don't miss this opportunity to learn how to transform your ideas into reality without waiting for a development team!
+
+Register here:  https://lu.ma/ilaqmxe3 ‎<This message was edited>
+[2025-05-09, 10:54:49] andre: I was experimenting like crazy last night and didn't keep track of my usage. Woke up to a $25 bill from openAI just for 1 day of tests 🤯. It costs around $0.25 (MYR1.05) per image generated. Any suggestions on cheaper image gen models to try out with?
+[2025-05-09, 11:28:18] ~ samuel: not sure if the math checks out and is cheaper than openai, but u could check leonardo.ai. iirc their pricing model is a flat 9usd/month for X credits and unused credits carry forward to the next month perpetually
+[2025-05-09, 11:28:59] ~ samuel: has alot of community pretrained models as well
+[2025-05-09, 11:32:33] andre: I tried leonardo before. Quality not up to par. Retrained models are not super consistent. OpenAI’s image gen model is the best I’ve seen since midjourney. Unfortunately mj doesn’t have official api ‎<This message was edited>
+[2025-05-09, 14:43:38] James Yeang: I feel this article has one of the most mature ways of looking at AI impact in the medium term on the world wide web. To me it's really worth the long read.
+
+https://baekdal.com/thoughts/what-do-we-know-so-far-about-the-impact-of-ai-search/
+[2025-05-09, 16:32:59] ~ Mike Chu: registered! thanks
+[2025-05-09, 16:33:23] ~ Mike Chu: Admin, can I request to add a team member in? @60122531899
+[2025-05-09, 16:58:35] andre: Pm'ed you
+[2025-05-09, 17:01:03] ~ Mike Chu: Thanks man
+‎[2025-05-13, 10:54:32] Daniel Cerventus Lim: ‎image omitted
+[2025-05-13, 11:04:47] andre: Build a modern voip walkie talkie with push to talk and alerts. Have fun exhausting those creds :)
+[2025-05-13, 11:09:06] James Yeang: Make me a modern version of the 1982 game Taipan!
+[2025-05-13, 11:10:06] Daniel Cerventus Lim: https://chatterbox-alert-relay.lovable.app/
+[2025-05-13, 11:10:19] Daniel Cerventus Lim: eh something more practical lah
+[2025-05-13, 11:10:24] Daniel Cerventus Lim: but let me try
+[2025-05-13, 11:15:10] andre: Compete with working logic haha
+[2025-05-13, 11:16:44] Daniel Cerventus Lim: https://taipan-reborn-voyage.lovable.app/
+[2025-05-13, 11:16:59] ~ Melissa Lim Shi Hui: build a Pinterest-core millennial mood board with pastel vibes and punk lyrics
+[2025-05-13, 11:17:41] ~ Melissa Lim Shi Hui: this is so cool
+[2025-05-13, 11:23:41] Daniel Cerventus Lim: https://pastel-rebellion-haven.lovable.app/
+‎[2025-05-13, 11:24:24] ~ Melissa Lim Shi Hui: ‎image omitted
+[2025-05-13, 11:24:36] andre: Lovable is awesome for creating a front ends quickly. Can be addictive lol
+[2025-05-13, 11:24:50] ~ Melissa Lim Shi Hui: so cool! I wanna try out this app now hahahaha
+[2025-05-13, 11:29:04] Daniel Cerventus Lim: @191864795836428 any good tool to build wordpress theme?
+[2025-05-13, 11:29:43] ~ Michael Kwan: I just found https://yotako.io/, haven't checked it out myself, just sharing here
+[2025-05-13, 11:31:29] andre: Not my domain lol. But as wp themes are mostly css and js. You could probably prompt one into existence ‎<This message was edited>
+[2025-05-13, 11:32:38] andre: 1. Find a design that you like
+2. ⁠use copycoder to create reference for cursor
+3. ⁠let composer work ‎<This message was edited>
+‎[2025-05-13, 11:35:28] James Yeang: ‎image omitted
+[2025-05-13, 11:35:58] ~ Melissa Lim Shi Hui: I just got hit by a pirate and gained 10% damage haha
+[2025-05-13, 11:36:21] andre: See you this weekend James :)
+[2025-05-13, 12:21:30] ~ Casimir Yong: ‎~ Casimir Yong requested to join
+[2025-05-13, 12:21:35] ~ Casimir Yong: ‎~ Casimir Yong joined using this group's invite link
+[2025-05-13, 12:23:45] andre: Hey guys. We’ll be having our build with AI community meetup this Saturday (17/5) afternoon. Looking forward to meeting you all! It’ll be the day that you finally push your idea to market!
+
+Whether it flies or sink, that’s another question. You got through the initial hurdle of building and that’s why this community exists ❤️
+
+If you haven’t yet, go ahead and sign up here https://lu.ma/ilaqmxe3
+[2025-05-13, 12:24:19] ‎You: ‎You pinned a message
+[2025-05-13, 12:52:48] ~ Michael Kwan: Says event full, 22 going
+[2025-05-13, 13:01:50] andre: Register on the waitlist anyway. Semi open event. Priority to this community members ‎<This message was edited>
+[2025-05-13, 16:10:38] ~ Casimir Yong: Hi everyone, Casimir here :) looking forward to learning and collaborating with ya'll
+[2025-05-13, 17:22:08] Kristian Zwart: Sorry I cannot make this one , when's the next and will it always be on a Saturday ?
+[2025-05-13, 17:22:35] Daniel Cerventus Lim: This is our first meet up. So we have not have a plan yet the timing
+[2025-05-13, 17:22:55] Kristian Zwart: Ah ok understood
+‎[2025-05-14, 11:24:25] ~ samuel: ‎image omitted
+[2025-05-14, 18:03:02] andre: What are the most important SaaS tools are that you all are subscribing for right now?
+
+Mine are chatgpt, midjourney, wispr, gamma, perplexity, Replit, windsurf, supabase, lovable, tella. I think I’m paying too much atm lol 🫨 ‎<This message was edited>
+[2025-05-14, 18:03:15] ~ Lim: Chat GPT
+[2025-05-14, 18:05:15] ~ samuel: probably copilot
+[2025-05-14, 18:16:54] ~ Z: Only pay to use at the moment 
+Via open router api mostly
+[2025-05-14, 18:20:21] ~ samuel: eh that's actually kinda cost efficient way about it. is there an endpoint you can access if you want to use a different gpt under their Explore GPT tab
+[2025-05-14, 18:22:32] ~ Z: Just use any open api compatible app
+
+I am using via cline / roocode over visual studio good enough for my usage
+[2025-05-14, 18:25:22] ~ samuel: oo ill try that out once my subscription ends
+[2025-05-14, 18:30:57] ~ Z: Google chrome has recently enforced   browser plugins must be updated to use Manifest V3 with service workers, 
+
+Many of my plugins got disabled and the developers say it’s too difficult to migrate 
+
+
+I just used cline +  gemini-2.5-pro-preview-05-06 yesterday mention what that plugin does and it coded a whole workable plugin under 10min for about 5usd
+
+Just had to give some feedback on things to modify and now I got a working plugin again ‎<This message was edited>
+[2025-05-14, 19:12:25] Ian Goh: too many bro. Hard to maximize all the credits
+[2025-05-15, 08:56:19] ~ Carmen: ‎This message was deleted.
+[2025-05-15, 09:11:17] ~ Michael Kwan: Tonight? Or Sat? Or referring to a diff event? ‎<This message was edited>
+[2025-05-15, 09:24:34] ~ Michael Kwan: Cool quick video with many good tips. Start at 8:47 for the big picture, then go back to the start. 
+
+Another highlight is 6:48, the "95% confidence" prompt finalizer, telling the LLM not to do anything unless it's 95% confident it knows what you want. 
+
+https://youtu.be/LvsgCdWss4I
+[2025-05-15, 09:29:11] ~ Melissa Lim Shi Hui: Btw, any programs that I need to download before the event? Very very noob
+[2025-05-15, 09:30:17] Daniel Cerventus Lim: You need chrome or any browser.
+[2025-05-15, 09:52:25] ~ Carmen: Thank you for pointing that out, I overlooked it. ‎<This message was edited>
+[2025-05-15, 10:03:34] ~ Melissa Lim Shi Hui: Eh that's all? So cool
+[2025-05-15, 10:11:15] ~ JT: looking forward for the meetup and learn more on vibe coding
+[2025-05-15, 10:21:23] andre: That last point has been a game changer since I started using it. Really helps to define the scope
+[2025-05-15, 12:57:33] andre: ‎POLL:
+Quick poll. What are you all most excited to get out of the Build with AI meetup this weekend?
+‎OPTION: Turning my idea into an actual working app (8 votes)
+‎OPTION: Learning about the best AI tools for building products (5 votes)
+‎OPTION: Discovering how to structure my product (5 votes)
+‎OPTION: Witnessing live demos and real-time builds (3 votes)
+‎OPTION: Meeting others who are building cool things too (8 votes)
+[2025-05-15, 12:58:21] andre: Vote on what matters most to you and we’ll shape the session to match. You can pick more than one option, or drop more ideas too ‎<This message was edited>
+[2025-05-15, 17:20:44] Joseph Chin: ‎Joseph Chin requested to join
+[2025-05-15, 17:22:46] Joseph Chin: ‎Joseph Chin joined using this group's invite link
+‎[2025-05-16, 12:06:09] Daniel Cerventus Lim: ‎image omitted
+[2025-05-16, 12:07:25] ~ Z: Canva 🤔
+[2025-05-16, 12:08:06] Daniel Cerventus Lim: yes hahaha
+[2025-05-16, 12:10:03] andre: What’s the verdict on canvas vs other tools
+[2025-05-16, 12:10:28] Daniel Cerventus Lim: actually not too bad
+[2025-05-16, 12:10:46] Daniel Cerventus Lim: i am figuring out how to deploy it
+[2025-05-16, 12:11:08] ~ Z: Don’t they deploy on their own platform?
+[2025-05-16, 12:11:48] Daniel Cerventus Lim: https://testbizmatching.my.canva.site/
+[2025-05-16, 12:12:02] Daniel Cerventus Lim: yeap
+[2025-05-16, 12:12:29] ~ Z: Wah the ui not bad
+[2025-05-16, 12:12:51] Daniel Cerventus Lim: ok, cant get it to work but not too bad
+[2025-05-16, 12:14:51] Daniel Cerventus Lim: I'll explain how to connect this business matching game to a database. Since we're working with frontend-only HTML, we'll need to use a cloud-based database service that allows direct connections from the browser.
+[2025-05-16, 12:21:47] James Yeang: Any Bolt users here? When I try to ask it to parse a Lazada link it keeps returning wrong prices 80% of the time.  Any tips?
+[2025-05-16, 12:23:29] ~ samuel: is this for parsing item prices from the link query parameters itself? or webscraping the content
+[2025-05-16, 12:23:56] James Yeang: webscraping.  I don't think the link has the price details
+[2025-05-16, 12:24:44] James Yeang: I tried to tell it the correct price and provide a few examples.  Then it seemed like it was working.  Then after 1-2 more attempts, it's clear that it was not
+[2025-05-16, 12:25:34] ~ samuel: hmm could try getting the id of the price text and manually ask bolt to target that specific id? sometimes if it’s a relatively huge DOM from the link, it doesnt parse it really well
+[2025-05-16, 12:28:27] James Yeang: Any tips on how to do that? To be transparent.  I don't consider myself very technical.  What I did was just went to developer options, and view source.  I could not figure out which was the ID of the price text
+[2025-05-16, 12:31:18] andre: Able to connect directly to GitHub ? If yes then can do extra edits on cursor and then deploy on vercel
+[2025-05-16, 12:32:53] andre: Try browser mcp. It literally reads website for you. Slightly more advance but think of it as an intern browsing the web for you and doing manual tasks. https://browsermcp.io/
+‎[2025-05-16, 12:39:18] ~ samuel: ‎image omitted
+‎[2025-05-16, 12:39:19] ~ samuel: ‎image omitted
+[2025-05-16, 13:25:37] Kristian Zwart: cool, is this using the canva api?
+[2025-05-16, 13:30:45] Daniel Cerventus Lim: Yeap. Just tested see what I churns out. 
+
+Cant seem to do database
+[2025-05-16, 14:38:09] Kristian Zwart: Awesome I’ve been planning to use for a project for a while. would love to pick your brains about it sometime at one of the meetups. Did you use a MCP or old school direct API?
+[2025-05-16, 15:04:27] James Yeang: So I tried this, but doesn't seem to do what I want.  I'm building a system within Bolt.  I want it to look at a user specified item on Lazada/Shopee or whatever website then just record that item's price on a list
+[2025-05-16, 15:43:40] ~ Z: I am unsure bolt has mcp 
+Never used bolt
+
+Can you save the code to  github and use other tools that has mcp tools?
+[2025-05-16, 15:43:53] ~ Z: MCP gives more knowledge context to your LLM
+[2025-05-16, 15:44:23] ~ Z: You can use browser search mcp to get the exact info you need 
+
+With cline it’s just a few mouse click to install or you can ask it to install
+‎[2025-05-16, 15:46:18] ~ Z: ‎image omitted
+‎[2025-05-16, 15:46:45] ~ Z: ‎image omitted
+‎[2025-05-16, 15:47:07] ~ Z: ‎image omitted
+‎[2025-05-16, 15:48:03] ~ Z: ‎image omitted
+‎[2025-05-16, 15:48:26] ~ Z: ‎image omitted
+[2025-05-16, 15:48:56] Tze Jin Shee: Whoa. Suggestion box
+[2025-05-16, 15:49:01] Tze Jin Shee: This is good.
+[2025-05-16, 15:49:24] ~ Z: yeah its been around few months already 
+I just got back into building stuff
+[2025-05-17, 12:42:30] andre: Hi all. Reminder to bring along your computer or iPad later as we’ll be building your app together ‎<This message was edited>
+[2025-05-17, 12:59:37] ~ Melissa Lim Shi Hui: Thanksss
+[2025-05-17, 12:59:44] ~ Melissa Lim Shi Hui: Sorry will be a bit late, in another workshop till 2 haha
+‎[2025-05-17, 13:43:42] Daniel Cerventus Lim: ‎image omitted
+[2025-05-17, 14:03:14] ~ Melissa Lim Shi Hui: Omw
+‎[2025-05-17, 14:24:20] Daniel Cerventus Lim: ‎video omitted
+[2025-05-17, 14:31:53] ~ samuel: kinda late but wheres this
+[2025-05-17, 14:31:56] ~ samuel: im outside
+[2025-05-17, 14:33:18] Daniel Cerventus Lim: In the room
+[2025-05-17, 16:48:04] ~ Manu: ‎~ Manu requested to join
+[2025-05-17, 16:48:04] Melvin Lim: ‎Melvin Lim requested to join
+[2025-05-17, 16:48:05] ~ Kaiqi: ‎~ Kaiqi requested to join
+[2025-05-17, 16:48:05] ~ Tan Lih Jen: ‎~ Tan Lih Jen requested to join
+[2025-05-17, 16:48:07] ~ Rehan: ‎~ Rehan requested to join
+[2025-05-17, 16:48:09] ~ Derrick: ‎~ Derrick requested to join
+[2025-05-17, 16:48:13] ~ Manu: ‎~ Manu joined using this group's invite link
+[2025-05-17, 16:48:13] Geetha Muda: ‎Geetha Muda requested to join
+[2025-05-17, 16:48:14] ~ Charles: ‎~ Charles requested to join
+[2025-05-17, 16:48:15] ~ Derrick: ‎~ Derrick joined using this group's invite link
+[2025-05-17, 16:48:18] ~ Rehan: ‎~ Rehan joined using this group's invite link
+[2025-05-17, 16:48:18] ~ rahulsk1947: ‎~ rahulsk1947 requested to join
+[2025-05-17, 16:48:20] ~ Kaiqi: ‎~ Kaiqi joined using this group's invite link
+[2025-05-17, 16:48:22] ~ Tan Lih Jen: ‎~ Tan Lih Jen joined using this group's invite link
+[2025-05-17, 16:48:23] Melvin Lim: ‎Melvin Lim joined using this group's invite link
+[2025-05-17, 16:48:26] ~ Gerald Lim: ‎~ Gerald Lim requested to join
+[2025-05-17, 16:48:36] Geetha Muda: ‎Geetha Muda joined using this group's invite link
+[2025-05-17, 16:48:41] ~ rahulsk1947: ‎~ rahulsk1947 joined using this group's invite link
+[2025-05-17, 16:48:43] ~ Gerald Lim: ‎~ Gerald Lim joined using this group's invite link
+[2025-05-17, 16:48:45] ~ Charles: ‎~ Charles joined using this group's invite link
+[2025-05-17, 16:49:08] Melvin Lim:
+‎[2025-05-17, 16:49:09] Melvin Lim: ‎image omitted
+‎[2025-05-17, 16:49:09] Melvin Lim: ‎image omitted
+‎[2025-05-17, 16:49:09] Melvin Lim: ‎image omitted
+‎[2025-05-17, 16:49:10] Melvin Lim: ‎image omitted
+‎[2025-05-17, 16:49:20] Daniel Cerventus Lim: ‎image omitted
+[2025-05-17, 16:50:02] ~ Manu:
+‎[2025-05-17, 16:50:03] ~ Manu: ‎image omitted
+‎[2025-05-17, 16:50:03] ~ Manu: ‎image omitted
+‎[2025-05-17, 16:52:05] Melvin Lim: ‎image omitted
+[2025-05-17, 17:13:47] andre: Great meeting you all today. Plenty of opportunities for learning together and cobuilding projects too ! Also super proud that nearly of you went home with an app that you build on your own in 1.5hrs !
+‎[2025-05-17, 17:14:18] Daniel Cerventus Lim: ‎image omitted
+[2025-05-17, 17:14:27] Daniel Cerventus Lim: Who left this?
+[2025-05-17, 17:17:25] Daniel Cerventus Lim: We left this at Nale.
+‎[2025-05-17, 17:17:36] Daniel Cerventus Lim: ‎image omitted
+‎[2025-05-17, 17:18:41] Daniel Cerventus Lim: ‎image omitted
+‎[2025-05-17, 17:18:41] Daniel Cerventus Lim: ‎image omitted
+‎[2025-05-17, 17:19:52] andre: ‎image omitted
+[2025-05-17, 17:31:52] Geetha Muda: Thank you @191864795836428 and Daniel for the session ! Pleasure meeting others too 🙏🏾
+[2025-05-17, 17:38:14] andre: As promise. 
+
+https://gamma.app/docs/Build-with-AI-Community-Meetup-17-may-2025-m6mqdfo5ddf1qnb
+[2025-05-17, 17:38:42] Geetha Muda: Thank you 🙏🏾
+[2025-05-17, 17:40:41] andre: There seems to be plenty of interest for image gen products. Let’s explore that topic in next months meetup 🖼️
+[2025-05-17, 18:27:57] James Yeang: Ok thanks. This was mine. Will take it later tonight/tomorrow Can ask them to hold on to it pls.
+‎[2025-05-17, 18:29:34] James Yeang: ‎image omitted
+‎[2025-05-17, 18:29:35] James Yeang: ‎image omitted
+[2025-05-17, 20:32:33] James Yeang: Hi @191864795836428 can you help me understand how you make 2, 5, 6 work together. Because from session today it seems like a fresh rebuild with every vibe platform. Rather than using a platform for each distinct stage ‎<This message was edited>
+[2025-05-17, 20:55:07] Melvin Lim: Can repost that message? I can't view because I joined the group later.
+[2025-05-17, 21:13:41] ~ Z: Takes more effort to sync your code to GitHub and continue coding with other the agents, since it’s being sync to GitHub there is version controls and you can easily rollback if something goes wrong
+[2025-05-17, 21:47:07] andre: Edit: for front end, I’m using v0 now. For product brief I’m using blueprint builder (in house tool) 
+
+
+My vibe coding stack 
+1. chatprd/snapprompt for product brief and prompt design 
+2. ⁠lovable for front end and scaffolding 
+3. ⁠supabase for backend services 
+4. ⁠OpenAI for AI integration
+5. ⁠Windsurf for logic and edge functions 
+6. ⁠vercel for deployment
+[2025-05-17, 21:48:49] andre: GitHub to sync your project across platform made. Changes done on one will automatically reflect on the other when you push changes
+[2025-05-17, 21:55:12] James Yeang: Just to confirm..So the next stage eg. Logic will be using the scaffolding eg. On lovable as a starting point because both synced to github? Is that the general idea? ‎<This message was edited>
+[2025-05-17, 21:56:35] andre: Connect lovable to supabase and you can run edge functions there too. You can build and run entire apps on lovable without other platforms actually
+[2025-05-17, 21:59:03] andre: The reason I transfer to Windsurf is because I felt the logic functions can be better customised on a code editor. 
+
+For a start I highly recommend getting familiar with setting up edge functions on supabase first
+‎[2025-05-18, 09:15:16] Daniel Cerventus Lim: ‎image omitted
+‎[2025-05-18, 09:41:48] ~ Shahbaaz: ‎image omitted
+[2025-05-18, 09:44:31] Daniel Cerventus Lim: Hahaha welcome
+[2025-05-18, 10:59:42] ~ Rehan: I reached there yesterday d.  🤭
+[2025-05-18, 11:29:40] ~ Shierly Heng Trainer
+#ButtsBunnyTrainer: ‎~ Shierly Heng Trainer
+#ButtsBunnyTrainer requested to join
+[2025-05-18, 11:58:59] ~ Shierly Heng Trainer
+#ButtsBunnyTrainer: ‎~ Shierly Heng Trainer
+#ButtsBunnyTrainer joined using this group's invite link
+‎[2025-05-18, 17:40:21] ~ Melissa Lim Shi Hui: ‎image omitted
+‎[2025-05-18, 17:41:06] ~ Melissa Lim Shi Hui: ‎image omitted
+[2025-05-18, 17:41:07] ~ Melissa Lim Shi Hui: this is so interesting
+[2025-05-18, 17:41:45] ~ Melissa Lim Shi Hui: used the chat function on Lovable and it still calculates towards the 5 daily credits hahaa
+‎[2025-05-18, 17:42:27] ~ Melissa Lim Shi Hui: ‎image omitted
+[2025-05-18, 17:47:25] ~ Melissa Lim Shi Hui: https://58d6c65a-3ef8-4b3a-95fa-ddb073317a80-00-2mc9ccqnyfbkz.worf.replit.dev/camera omg from replit
+[2025-05-18, 18:46:27] Melvin Lim: Interesting. Are you trying to detect if the beads are real or not? 
+
+If so, using LLM you may not get the answer. You may instead need to train your own model with datasets of beads images.
+[2025-05-18, 18:51:36] ~ Melissa Lim Shi Hui: No, I wanna detect the type of beads and how many.  It yes cannot use LLM, need to get a diff ai model. Hoping that 1 already exists tho hahaha
+[2025-05-18, 18:53:10] Melvin Lim: https://universe.roboflow.com/casper-1lkzw/my-first-project-qjaqa
+[2025-05-18, 20:12:07] ~ Fakhrur Razi: @220215874965554 you should try YOLO (simple) or VLM (advanced)
+[2025-05-18, 20:23:35] ~ LKaanthan: Good work @220215874965554.  Someone mentioned on Saturday that he is running a process automation agency. I was in a rush so couldn't connect. Could you please PM me. Thank you
+[2025-05-19, 11:03:56] andre: It’s pretty magical when you find that you can create apps even when you’re on the go haha
+[2025-05-19, 11:08:40] andre: For designing AI apps, keep it simple, follow this framework. 
+- can I make it work in a custom GPT? 
+- ⁠if yes , take note of the instructions and any custom documents that are uploaded to it. 
+- ⁠create a beautiful wrapper around it with lovable and nest the instructions in the system prompt 
+
+It’ll trigger a field to enter your OpenAI api key but it work without cost to you as the developer
+[2025-05-19, 14:53:34] andre: Wrote up a short piece about last weekend. Thanks for the inspiration guys! 
+
+https://www.linkedin.com/posts/andreteow_2-months-ago-daniel-cerventus-lim-f-s-activity-7330118047564816384-YAd5?
+[2025-05-19, 14:53:36] andre: This community is curated so if you have friends who could be interested in building with AI. Forward them this application link here: https://tally.so/r/w7EK5R
+[2025-05-19, 14:59:36] ~ Michael Kwan: Anyone tried building with Tempo.new before? How does it compare to Lovable?
+[2025-05-19, 15:00:12] ~ Michael Kwan: I couldn't make the session last weekend so this was quite valuable to me, just watched it: https://www.youtube.com/watch?v=cESaIUWoCJQ
+
+I imagine it's similar to what you guys did?
+[2025-05-19, 15:00:43] Daniel Cerventus Lim: not as good when i last used
+[2025-05-19, 15:00:50] ~ Z: Tempolab? 
+Looks cool at first 
+Output is good
+Integration with supabase etc is good
+But it will randomly get stuck and errors out and it can’t proceed with fixing the issues by itself
+[2025-05-19, 15:01:51] andre: Tried once. Haven’t used it in depth. Focusing on 2-3 tools only otherwise will suffer from tools paralysis lol
+[2025-05-19, 15:03:26] ‪+61 419 988 982‬: ‎Daniel Cerventus Lim added ‪+61 419 988 982‬
+[2025-05-19, 15:02:27] ~ Michael Kwan: ikr, there's too many out there 😅
+[2025-05-19, 15:02:57] ~ Z: Agree I am quite comfortable with roocode & cline, quite flexible 
+
+Just need to set it up properly upfront with the rules etc
+[2025-05-19, 16:01:25] andre: Any automation experts (n8n, make.com etc) here? Potential external project opportunity lol
+[2025-05-19, 16:09:42] Joseph Chin: depending on the size of the project I might know a few people / companies @191864795836428
+[2025-05-19, 16:11:28] andre: I’ll dm you
+[2025-05-19, 16:44:58] ~ Yen: ‎~ Yen requested to join
+[2025-05-19, 16:49:50] ~ Yen: ‎~ Yen joined using this group's invite link
+[2025-05-19, 16:52:39] Loki Lim: ‎Loki Lim requested to join
+[2025-05-19, 16:56:27] Loki Lim: ‎Loki Lim joined using this group's invite link
+[2025-05-19, 17:25:43] Shah Fariq: ‎Shah Fariq requested to join
+[2025-05-19, 17:27:36] Shah Fariq: ‎Shah Fariq joined using this group's invite link
+[2025-05-19, 18:05:29] andre: #2 on product hunt today https://bnbicons.com/?ref=producthunt.
+
+This is all possible thanks to the power of open-source and AI:
+- Flux.dev model
+- Custom LoRa
+- Replicate.com API to make calls to the model
+- Ltx Video on Fal.ai for the animation
+- Lovable.dev to build the website and UI
+[2025-05-19, 21:36:59] Melvin Lim: impressive, well done!
+[2025-05-19, 21:39:18] andre: Not mine lol. It’s a project a stumbled upon on product hunt
+[2025-05-19, 21:39:34] andre: Shows what’s possible to build
+[2025-05-19, 23:23:23] ~ Shahbaaz: It works ! 🥺😁😁
+[2025-05-19, 23:23:38] ~ Shahbaaz: Took me a couple days (cuz credits hahahah)
+[2025-05-19, 23:24:04] ~ Shahbaaz: But I got the calorie tracker app to kind of connect and work
+‎[2025-05-19, 23:24:20] ~ Shahbaaz: ‎video omitted
+[2025-05-19, 23:24:29] andre: Link it here ! Excited to see what you built !
+[2025-05-20, 07:46:30] ~ Melissa Lim Shi Hui: SO COOL!
+[2025-05-20, 07:46:46] ~ Melissa Lim Shi Hui: Eh I should test out GPT's AI and if ok then connect it too
+[2025-05-20, 11:42:13] ~ Wee 🥷🥏🤞🏻: ‎~ Wee 🥷🥏🤞🏻 requested to join
+[2025-05-20, 11:42:27] ~ Wee 🥷🥏🤞🏻: ‎~ Wee 🥷🥏🤞🏻 joined using this group's invite link
+[2025-05-20, 13:27:11] ~ Wen Yun ^_^: ‎~ Wen Yun ^_^ requested to join
+[2025-05-20, 14:19:20] Jes Min Lua: ‎Jes Min Lua requested to join
+[2025-05-20, 14:19:25] Jes Min Lua: ‎Jes Min Lua joined using this group's invite link
+[2025-05-20, 14:37:00] Jes Min Lua: Hello everyone! I'm Jes Min, former consultant and co-founder of a Home and Property Services platform!
+[2025-05-20, 14:37:13] Jes Min Lua: Thank you for letting me join the community!
+[2025-05-20, 14:53:45] Shah Fariq: Hi everyone. 
+I’m Shah Fariq — previously a startup founder in the productivity software space, and now serving as Director of a private security services company. Looking forward to connecting, learning, and growing with all of you.
+‎[2025-05-20, 15:30:30] andre: ‎image omitted
+[2025-05-20, 15:31:17] andre: Welcome Jes Min. Excited to have you on board!
+[2025-05-20, 15:31:55] ~ G: ‎~ G requested to join
+[2025-05-20, 15:32:23] andre: Welcome Shah! Tell us more about your private security business. How do you see AI disrupting it
+[2025-05-20, 15:32:39] Tze Jin Shee: Ai security robot 😜
+[2025-05-20, 15:32:44] ~ G: ‎~ G joined using this group's invite link
+‎[2025-05-20, 15:33:15] Tze Jin Shee: ‎image omitted
+[2025-05-20, 15:34:06] ~ Fakhrur Razi: Wow! Interesting 🤩
+[2025-05-20, 15:34:27] Tze Jin Shee: Tons of security robot deploy in world expo Osaka 2025.
+‎[2025-05-20, 15:38:21] Tze Jin Shee: ‎image omitted
+[2025-05-20, 15:40:23] ~ Hakim: ‎~ Hakim requested to join
+[2025-05-20, 15:40:36] ~ Hakim: ‎~ Hakim joined using this group's invite link
+[2025-05-20, 15:46:44] Tze Jin Shee: On the side note. Skynet is already here. Just tested deepdrone. A basically Ai agent wrapper for PX4 flight controller that u can use chat interface to command drone flight.
+[2025-05-20, 15:48:39] ~ W.: ‎~ W. requested to join
+[2025-05-20, 15:49:35] ~ W.: ‎~ W. joined using this group's invite link
+[2025-05-20, 15:50:23] ~ G: Hi everyone! I’m ZherG, Yall can call me *“G”*, a university student and also the founder of a new startup called JomBoss, a platform that *helps students gain real work experience by matching them with freelance opportunities, mainly in marketing, content creation, part-time gigs, and web development*.
+
+🧠 My AI journey so far:
+I’m new to no-code AI tools, but I’ve been managing client projects and student talent pipelines for the past year. Now I’m exploring how AI can automate and scale some of the processes we currently do manually.
+
+🚀 What I want to build:
+An AI-supported portfolio system that helps students auto-generate and manage their own professional portfolio, ideally connected to the client tasks they’ve completed through our platform.
+
+My startup Instagram: https://www.instagram.com/jomboss.co/
+My personal Linked In: https://www.linkedin.com/in/ongzherg/
+[2025-05-20, 15:58:25] ~ W.: Hi everyone, I am Charles and I currently run a recruitment business. 
+
+My AI Journey: 
+I've experimented/dabbled with prompts through tools such as Claude, Replit and xGrok. Haven't really built any substantial yet
+
+What I hope to build:
+I hope to strengthen my business by solving recruitment-centric problems. I personally believe the recruitment industry is operationally outdated and I hope to play a part in disrupting the business model
+
+Happy to be part of this community. I look forward to journeying with you guys!
+[2025-05-20, 16:10:19] ~ Hakim: Hi everyone, I’m Hakim, a public sector officer with 13 years of experience, mainly in policy planning, with subspecialties in policy planning, project evaluation, performance management, delivery monitoring, foresight, and public sector reform.
+
+🧠 My AI journey so far:
+I’ve been exploring how AI can improve the way governments think, plan, and deliver, especially in embedding intelligence into routine decision-making and long-term policy direction.
+
+🚀 What I want to build:
+I’m keen to develop AI-driven tools that support better policy execution, sharper delivery insights, and more future-ready institutions. My goal is to help make the public sector not just more efficient, but smarter and more adaptive. *to do more with less*
+
+Looking forward to learning from everyone here and contributing where I can!
+[2025-05-20, 16:21:45] andre: Welcome G! Founders start young these days. Let us know if you need any help at all. Most people here have built and also failed (incl me) in their startups. It’s not a problem to fail. As long as you learn from the experience :)
+[2025-05-20, 16:22:47] andre: Welcome Charles ! AI has been taking about “disrupting” recruitment since the beginning of time. Glad to have a domain expert like yourself here
+[2025-05-20, 16:24:30] andre: Welcome hakim. I believe you’re probably the one and only active civil servant in the community. Love to hear more about your sharing on how the bureaucracy “really”works from the inside
+[2025-05-20, 16:25:17] ~ Hakim: 🫣
+[2025-05-20, 16:25:19] ~ Wen Yun ^_^: ‎~ Wen Yun ^_^ joined using this group's invite link
+[2025-05-20, 16:40:35] ~ Raymond: ‎~ Raymond requested to join
+[2025-05-20, 16:40:39] ~ Raymond: ‎~ Raymond joined using this group's invite link
+[2025-05-20, 16:41:45] andre: Most of you here built an app for the first time last weekend. Time to put it to the test. 
+
+Our friends at AI tinkerers are organising an awesome Hackathon planned with ASB. 
+
+Only 10 teams compete to win a share of RM4000 cash pool for 8 hrs of vibe coding (us). 
+
+Don’t know how to code. No problem. Let’s make magic. ✨ 
+
+RSVP Below and sign up on the Hackathon Portal before 6 June 2025
+
+https://kuala-lumpur.aitinkerers.org/p/aitkl-x-asb-calling-all-builders
+[2025-05-20, 16:41:54] ‎You: ‎You pinned a message
+[2025-05-20, 16:44:47] Jes Min Lua: Oh cool! Anyone here joining?
+[2025-05-20, 16:49:32] ~ Gerald Lim: too tough for me 🥶
+[2025-05-20, 17:15:03] Tze Jin Shee: I just signup our local n8n AI cloud from GB network, speed really good and for RM24 per month, really worth it. Local Malaysia IP for instant response. I think it price very good for a local malaysia instance with local support.
+DO 2GB instance is around 12 USD per month. U can make do with 1GB ram if u don't paste huge data via node.
+
+Here is my affilate link.
+
+https://secure.gbnetwork.com/aff.php?aff=1270
+[2025-05-20, 19:43:12] ~ Stev: ‎~ Stev requested to join
+[2025-05-20, 20:16:56] ~ Pascal: ‎~ Pascal requested to join
+[2025-05-20, 20:33:12] ~ Stev: ‎~ Stev joined using this group's invite link
+[2025-05-20, 20:33:14] ~ Pascal: ‎~ Pascal joined using this group's invite link
+[2025-05-20, 20:49:28] ~ Pascal: Hi Build with AI community
+
+1️⃣ I am Pascal, a KL-based stay-at-home dad with focus on occupying his son’s time with good stuffs (non-AI).
+2️⃣ I started my AI coding journey for about 6 weeks (technically, much longer but 6 weeks with some consistency) mostly building websites and learning to tweak their front-end.
+3️⃣ Some of my spare time is to build a sales tech stack powered by AI. This is mostly to help senior CxO to get AI powered workflow and teach them and their team to use it. Additionally, I recently tried building an AI agent to scrap for prospects. Mixed results. Next, I would like to build an automated (of course) tutor scheduling system.
+
+On the tutor scheduling system, its probably where I would be pinging the community. Will scope and GPT what I can before reaching out for help.
+[2025-05-20, 21:47:12] ~ Stev: Hi everyone, thanks Andre for the invite. Anyway i’m Steven. based in KL, i’m in the events and marketing services industry. 
+
+have been interested in tech since late 90s when i was in the first *dotcom* (auto correct gone wrong earlier)🤕 boom. left and went into other industries after the bust. over the last few years the passion started coming back when i build and manage an internal news portal and a gamified learning platform for a client.  used external talents and obviously has its pros and cons. 
+
+been intrigued by the talk about tech guys and companies using AI to code faster and better. so guess joining this group is interesting as i can explore how I can personally start on the journey myself. 
+
+personally my aim is to democractize learning and development for the underserved community especially kids in rural areas or blue collar workers. 
+
+my biggest challenge is where to start when developing using AI tools and partly finding sufficient time to focus on it. at least this one of my many first steps. nice e-meeting everyone. cheers ‎<This message was edited>
+[2025-05-20, 21:52:28] ~ Melissa Lim Shi Hui: Hi everyone 👋 I'm Melissa. Been loving tech since young, cita-cita saya used to be computer engineer.
+
+Fell in love with law ⚖️ and now run a digital law firm!
+
+Techy lawyer so wanna learn coding again (I was told html isn't a coding language and I gotta be ok w that hahaha!)
+[2025-05-20, 22:17:38] ~ Michael Kwan: HTML stands for Hypertext Markup Language.
+
+Markup is a text encoding system of writing, in other words, it's code.
+
+Therefore a markup language is a form of coding language.
+
+Ehrgooo... HTML is a coding language ✌🏻
+
+(it's still not a programming language tho 😋) ‎<This message was edited>
+[2025-05-20, 22:21:58] ~ Melissa Lim Shi Hui: Omg yayyy so I do know how to code hahaha just not program now? Hahahaa
+[2025-05-20, 22:23:41] ~ Gerald Lim: HMTL means you Gen X?
+[2025-05-20, 22:51:39] ~ Melissa Lim Shi Hui: Bruh
+[2025-05-20, 22:52:05] ~ Melissa Lim Shi Hui: I learnt when I was very young ok 😭😤🥲
+[2025-05-20, 22:53:48] ~ Melissa Lim Shi Hui: <p style="color: red; font-weight: bold;">Emphasise: VERY young</p>
+
+Hahahahahahahaha
+[2025-05-20, 23:04:42] ~ Henry Ho: https://www.relume.io/
+
+Has anyone tried Relume? I believe its mostly for front-end and UI/UX
+[2025-05-20, 23:05:36] andre: Yup. It’s like uxpilot. Helps you to design a beautiful front end
+[2025-05-20, 23:27:00] ~ Gerald Lim: ok ok. just happy to hear HTML again
+[2025-05-20, 23:29:25] ~ Z: https://jules.google/
+
+Another Ai Agent - can act directly on your github repo
+Still need to be in waiting list at the moment
+[2025-05-20, 23:30:13] ~ Melissa Lim Shi Hui: I'm just kidding anyways hahahaa
+[2025-05-21, 12:50:19] Thila 42 KL: ‎Thila 42 KL requested to join
+[2025-05-21, 12:51:03] Thila 42 KL: ‎Thila 42 KL joined using this group's invite link
+[2025-05-21, 13:06:44] andre:
+[2025-05-21, 13:07:08] ‎You: ‎You pinned a message
+[2025-05-21, 13:09:37] Build with AI: ‎You updated Community meetup (June)
+[2025-05-21, 13:09:59] ~ Shahbaaz: OMG -https://blog.google/technology/ai/google-flow-veo-ai-filmmaking-tool/
+[2025-05-21, 13:10:22] ~ Shahbaaz: Flow by Veo3 by google looks SICK! ‎<This message was edited>
+[2025-05-21, 13:10:54] Thila 42 KL: Hello everyone! Thila here. I run 42 Malaysia, a comp science school focused on peer to peer learning without teachers. My passion lies in both education and tech :)
+
+I do have a decent background in coding but not a developer. Mostly utilise my skills for automation and hobbyist game dev work.
+
+One of the key things I also focus on is upskilling corporate employees and my focus has always been on helping employees with zero coding background to automate workflow, processes and daily problems using tech tools and simple code that can be generated with AI tools
+
+At the moment one of the use case that I am trying to solve for myself is to build an internal platform that i can use to onboard learners to do Python programming on a cloud based environment without having to install anything. Something like what Replit used to offer for students and educators.
+
+Anyway, nice to meet all of you and hoping to learn and help where I can 😄
+[2025-05-21, 13:11:45] ~ Shahbaaz: date is today?
+[2025-05-21, 13:11:48] ~ Shahbaaz: @191864795836428
+[2025-05-21, 13:15:48] andre: June 21. Have corrected it 😅
+[2025-05-21, 13:18:13] ~ Wai Hoe: is this the buiild with AI Workshop? ‎<This message was edited>
+[2025-05-21, 17:39:06] ~ Z: https://stitch.withgoogle.com/
+
+Not bad can Copy the code to your coding tool or copying the design into figma to further refine
+[2025-05-21, 17:46:50] andre: Not a workshop lol. It’s a co-learning experience
+[2025-05-21, 17:48:07] andre: Timed out when I tried to use it. Guess they had a surge in traffic
+[2025-05-21, 17:50:16] ~ Jin: ‎~ Jin requested to join
+[2025-05-21, 17:53:26] ~ Jin: ‎~ Jin joined using this group's invite link
+[2025-05-21, 17:55:23] ~ Wai Hoe: Oh so it's an space where we will try out tinkering with AI together?
+[2025-05-21, 17:56:07] andre: Come together and build your project with AI. It’s finally time for you to launch
+[2025-05-21, 17:58:02] ~ Jin: Hey everyone, my name is Jin, cofounder of Neo Livin. Thanks @191864795836428 for the invite to this community. Current status is still finding a way to utilise AI for building real stuffs 👋
+[2025-05-21, 18:02:16] andre: Welcome Jin! Looking forward to hearing more about your projects !
+[2025-05-21, 18:06:41] ~ Wai Hoe: I'm a total noob but I'll try 😄
+[2025-05-21, 18:08:28] ~ Z: What real stuff you wanna build?
+[2025-05-21, 18:25:23] ~ Jin: Something that people actually want to use. I’m still new to this, wanna learn what’s the right way of building with AI that is not just prototype, but also can be in production and even scale without much limitations
+[2025-05-21, 18:27:06] ~ Jin: Anyone here successfully build something out with AI? Can share your projects here?
+[2025-05-21, 18:27:51] andre: @168272624398337 you wanna showcase what you built last weekend ? 😎
+[2025-05-21, 18:49:15] ~ leo: ‎~ leo requested to join
+[2025-05-21, 18:57:14] ~ leo: ‎~ leo joined using this group's invite link
+[2025-05-21, 19:13:39] ~ leo: Hey everyone, I'm Zahin and working as UI/UX Designer at a Fintech Company.
+[2025-05-21, 19:13:53] ~ leo: I just about to learn to code using AI. Yeah, newbie here. 🙂
+[2025-05-21, 19:14:03] ~ leo: So am planning to build proptech solution -- basically is a rental management software for landlords/property agents as well as tenants (or in easy word is tenant profiling).
+[2025-05-21, 19:14:09] ~ leo: I hope can learn and get practical advice from you guys! 🫱🏼‍🫲🏼 ‎<This message was edited>
+[2025-05-21, 19:47:27] ~ LostDutch: ‎~ LostDutch requested to join
+[2025-05-21, 20:36:29] ~ longlife: Hi Zahin welcome to the group. I am currently building this too for a client l my particular pain point it addresses is 
+Multi country propert 
+Multi currency support 
+Ability to track expenses 
+Track due bills and payments.
+Tenant communication 
+Inventory in the leased property 
+Financial reports for tax purposes - later feature 
+Signed Leases 
+
+Are you able to share more about yours
+[2025-05-21, 20:38:02] ~ longlife: I am sure there are products that do this. However the multi country becomes the a problem to solve  I intent to micro sass this product at a fair price ‎<This message was edited>
+[2025-05-21, 21:03:57] ~ leo: Ideally mine is almost similar to what you are doing for your clients. But mine, additional item is serve as somewhat like CTOS for rental* which is tenant past records. Ex: Tenant tier 1 -- if they fulfill some criteria like pay on time, no issue with past units/landlords, etc. 
+
+*Residential or commercial building but planning to start with a simple version with residential first specifically for service apartments/condo in KL Area near to LRT/MRT stations. ‎<This message was edited>
+[2025-05-21, 21:31:45] ~ LostDutch: ‎~ LostDutch joined using this group's invite link
+[2025-05-21, 21:38:37] ~ longlife: This is great definitely there is problem pre qualifying tenants
+[2025-05-21, 21:58:27] ~ leo: I noticed most landlords put 95% trust to their property agents (this is a scenario for those using property agent from the start).
+
+The problem with the agent is:-
+- They are chasing sales. So they rush to close the deal with potential tenants. Then, they will send the tenant profile to landlord.
+- But, landlords often make decision based on emotion only by referring from the profile given by agents---whatsapp form like occupation, reason to rent, etc. Some of them will request company offer letter to check/verify the information. The problem with this is it can be misused by anyone, so no guarantee for PDPA cuz everything is based on mutual trust. ‎<This message was edited>
+[2025-05-21, 22:06:31] ~ longlife: Yes this is definitely the case.How do you intent to get folks on board for the pre qualification registration ?
+‎[2025-05-22, 10:57:28] James Yeang: ‎image omitted
+‎[2025-05-22, 10:57:28] James Yeang: ‎image omitted
+‎[2025-05-22, 10:57:29] James Yeang: ‎image omitted
+[2025-05-22, 10:58:37] andre: That’s super cool! On my list of things to deep dive on
+[2025-05-22, 10:58:50] ~ Z: So many new features & product released
+‎[2025-05-22, 10:59:44] James Yeang: ‎image omitted
+‎[2025-05-22, 10:59:45] James Yeang: ‎image omitted
+‎[2025-05-22, 10:59:45] James Yeang: ‎image omitted
+[2025-05-22, 11:00:13] James Yeang: To put in Gemini integration is just one click.  It's ridiculously simple now
+[2025-05-22, 11:01:19] ~ Pascal: good 3-sided marketplace issue to resolve using AI tools
+[2025-05-22, 11:02:35] ~ LostDutch: Hi All,
+My name is Gijsbertus, 57 yo from the Netherlands, currently staying in KL. (After living in Hong Kong for 10+ years and some adventures in USA)
+A history with computer hardware (assembled my own computer brand in NL long time ago), software usage, ecom, trade and workfloor process engineering.
+Interested in getting the most out of software, but never coded anything myself.
+Want to know more about AI and how it can be practically used. No concrete idea yet for an app, but open to get inspired 😊 and have some sparring partners.
+[2025-05-22, 11:03:44] ~ Raymond: The app is functional or just mockup?
+[2025-05-22, 11:06:38] James Yeang: It's functional.  But it is a very simple app mind you
+[2025-05-22, 11:07:10] ~ Raymond: So far i hear great reviews for those using cursor
+[2025-05-22, 11:07:43] ~ Z: It’s a start
+[2025-05-22, 11:07:58] ~ Z: You can start adding functionality
+[2025-05-22, 11:51:43] ~ Victor Cheong: ‎~ Victor Cheong requested to join
+[2025-05-22, 11:54:07] ~ Victor Cheong: ‎~ Victor Cheong joined using this group's invite link
+[2025-05-22, 12:08:47] ~ Chin Tatt: ‎~ Chin Tatt requested to join
+[2025-05-22, 12:15:00] ~ Chin Tatt: ‎~ Chin Tatt joined using this group's invite link
+[2025-05-22, 13:03:54] ~ Esther: ‎~ Esther requested to join
+[2025-05-22, 13:10:09] ~ Esther: ‎~ Esther joined using this group's invite link
+[2025-05-22, 13:14:22] ~ Esther: Good Afternoon everyone. I am Esther here! Trying to build my own clothing brand in Malaysia,since I’m running solo ive been trying to figure out alot of stuff with the help if AI(ChatGpt).Been watching alot of videos and learning more about AI.Hope to be able to build my own website&App by learning together with you all in this group.Thank you for having me ‎<This message was edited>
+[2025-05-22, 13:35:32] ~ Chin Tatt: Hi all, I'm Chin Tatt! Zero knowledge about building AI but here I am trying to learn and build my own personalized project management tools and expenses tracking tool through different scenarios to suit my own use case more. Hope to be able to learn how to build from here! Is there any onboarding tutorial that I can have a look with?
+[2025-05-22, 13:50:10] ~ Fakhrur Razi: Hi @119224114651324, you may try build your own website with this:
+
+https://youtu.be/vmxwdQZPPOc?si=PPZ9iCl4pK5qCXUV
+[2025-05-22, 13:52:28] andre: Yup. Lovable is a great tool for getting started !
+[2025-05-22, 13:53:22] ~ Esther: Hi Fakhrur, thank you very much !
+[2025-05-22, 13:53:42] andre: https://youtu.be/lRstoZON4R4?si=BT5fy9ShAuB08E-9
+
+Bookmarking this to try it out later too
+[2025-05-22, 14:01:14] ~ BKong: ‎~ BKong requested to join
+[2025-05-22, 14:02:25] ~ BKong: ‎~ BKong joined using this group's invite link
+[2025-05-22, 14:07:03] ~ Sui Lynn: ‎~ Sui Lynn requested to join
+[2025-05-22, 14:12:57] ~ BKong: Thank you for adding me into the community Andre. 🤝
+
+Hi everyone, my name is Bruce and i work as a Senior Business Development & Marketing Manager in a holding company that is active in many industries (including F&B, Plantation and Mobile Apps and many others)
+
+I’m just starting my journey into building wth AI and have had many unsuccessful attempts at using Claude, Cursor and Google Appsheet. 😅
+
+I want to build applications that can automate certain business processes and also explore ways for my dev team to quickly develop and iterate on our products and services.
+[2025-05-22, 14:14:34] ~ Victor Cheong: Good afternoon everyone! I'm Victor, and I'm excited to connect with all of you.
+
+Like Esther and Chin Tat , I'm on a journey of continuous learning and growth. I've spent my career in financial services driving project management, digital transformation, CX and Business Continuity, but what really drives me is exploring how we can use technology—especially AI—to unlock our potential and solve real problems.
+
+I've been experimenting with AI tools to streamline everything from daily workflows to creative projects.  I'm here trying to learn how to build a side gig and successful venture that can replace my full time job . I'd love to share insights from my own experiments and discoveries, while learning from everyone unique perspectives and challenges. 
+
+Looking forward to growing together 😊
+[2025-05-22, 14:17:30] ~ Sui Lynn: ‎~ Sui Lynn joined using this group's invite link
+[2025-05-22, 14:46:46] ~ Ken: ‎Daniel Cerventus Lim added ~ Ken
+[2025-05-22, 14:53:10] ~ Ang Soo Huey: ‎~ Ang Soo Huey requested to join
+[2025-05-22, 16:04:57] ~ Ang Soo Huey: ‎~ Ang Soo Huey joined using this group's invite link
+[2025-05-22, 16:20:56] Yong Lin Teh: ‎Yong Lin Teh requested to join
+[2025-05-22, 16:22:07] Yong Lin Teh: ‎Yong Lin Teh joined using this group's invite link
+[2025-05-22, 16:22:45] andre: Probably the biggest thing that came out on AI generated videos yet. And this is the worst that it’ll ever be 
+
+https://x.com/hashemghaili/status/1925332319604257203?s=48
+[2025-05-22, 16:41:01] ~ Raymond: Hi guys, I'm Raymond. 
+
+I'm currently providing maintenance/repairs services. but my background is mostly in marketing (SEO, and PPC). 
+I'm also doing lots of business process automations to replace redundant tasks and save cost/time. 
+
+Currently i'm using AI mostly to automate/simplify video/audio creation, social media posting. 
+looking forward to learn how to build using AI. ✌️
+[2025-05-22, 16:41:40] Jes Min Lua: Heya Raymond! Jes Min from Recommend.my, we're in the same space! Glad to meet a comrade!
+[2025-05-22, 16:45:13] ~ Raymond: haha. yes quite related. customers find me usually from google.
+[2025-05-22, 16:49:35] ~ Ang Soo Huey: Hello! Ang Soo Huey here. 
+I'm a nurse with more than 3 decades experience, a mom of 2 and a cancer survivor. 
+
+Passionate about holistic healing, my practice blends traditional & modern nursing with integrative healthcare, exploring the power of stem cells, aromatherapy with essential oils, light/sound/ touch therapy & movement and energy healing to understand health through the lens of energy, destiny and harmony to support wellness.
+
+As a nursing consultant, I believe everyone deserves effective, safe, practical (ESP) practices and I believe in giving people health options. My journey through cancer and motherhood kickstart my mission to empower others in their pursuit of good health (body, mind, and spirit).  
+
+Whether it’s through science-backed advice or compassionate care, I'm here to guide you toward a healthier balance life.  
+There is more than one way to wellness and combination work better! 
+
+Presently using AI to plan nursing curriculum, treatment plans and holiday itinerary. 
+Don't know anything about coding. 
+
+Looking to learn how I can build apps with AI to simplify my work, create awareness and educate on wellness.
+[2025-05-22, 16:55:57] ~ Ken: Hello, I’m also new to the group @43048608243890 kindly invited me; I just moved to Malaysia after 15 years in china and 10 years in the UK, working in digital marketing and venture capital during that time, I was lucky to be part of 4  m&a deals on the selling side. I’m now studying an MBA at Xiamen university campus in Sepang. Hope to learn more from all of you on AI
+[2025-05-22, 16:56:15] ~ Gerald Lim: welcome home!
+[2025-05-22, 17:16:50] Warren Leow: ‎Warren Leow requested to join
+[2025-05-22, 17:16:54] Warren Leow: ‎Warren Leow joined using this group's invite link
+[2025-05-22, 17:18:08] andre: Ken Cheung? We connected before haha. Was supposed to catch up for coffee to discuss new m&a projects. There’s a few other investors here as well so if you find something mutually interesting. Go forth and create! ‎<This message was edited>
+[2025-05-22, 17:18:45] Warren Leow: Hey, this is Warren here. Excited to vibe more. I've been experimenting around with Cursor and build a couple of google sheets plugins around mail merge, marketing, crawling etc.
+[2025-05-22, 17:19:41] andre: Truly diverse group we have. Looking forward to seeing what you come up with for your patients
+[2025-05-22, 17:21:05] andre: Welcome to the community warren!
+[2025-05-22, 17:25:59] ~ Pascal: out of curiosity - anyone from consumer healthcare or generally, medtech / healthtech space
+[2025-05-22, 17:35:37] ~ Ken: Yeah, cool, nice to reconnect
+[2025-05-22, 17:38:10] ‎You: ‎You pinned a message
+[2025-05-22, 18:02:48] ~ Ken: https://www.instagram.com/reel/DJ6xBalyPcQ/?igsh=MTAzeW1hcWE4c3Zsbg==
+
+
+Rapid prototyping with AI; I did two soft build with no coding formal experience in a few days that functionally worked perfectly
+[2025-05-22, 18:23:05] ~ Jin: Just curious are those prototyping tools like lovable, v0 has any vendor lock in mechanism? Are the code easily export and be use on somewhere else?
+[2025-05-22, 18:23:42] ~ Sui Lynn: Hello all, i am novice beginner new to AI. Going through aging process in slomo is not fun. My socmed algorithms keep showing silo contents that so far not yet overlap covering aging , menopausal women , physically active yet beginning to wear n tear or more injuries happening …. I’m looking to use vibe coding to come up with something to address this.
+[2025-05-22, 18:23:57] andre: not at all. you can save them on to your git hub and then work on them on any other platform that you wanted to
+[2025-05-22, 18:24:35] ~ Jin: Good to know, thanks!
+[2025-05-22, 18:24:40] ~ Fakhrur Razi: I struggled with the backend using lovable, any suggestions?
+[2025-05-22, 18:25:35] andre: gotta connect your lovable project to supabase. and the prompt the edge function directly in lovable
+[2025-05-22, 19:01:06] ~ Fakhrur Razi: I see
+[2025-05-22, 19:08:52] Daniel Cerventus Lim: ‎POLL:
+What tools you been using?
+‎OPTION: Loveable (13 votes)
+‎OPTION: Bolt (4 votes)
+‎OPTION: V0 (3 votes)
+‎OPTION: Replit (7 votes)
+‎OPTION: Cursor (5 votes)
+‎OPTION: Roo Code (1 vote)
+‎OPTION: Windsuft (2 votes)
+‎OPTION: Manus (4 votes)
+‎OPTION: Qwen (1 vote)
+[2025-05-22, 19:11:38] ~ Pascal: my lazee AI generated comparative research for those seeking to get started, pick a tool 
+
+https://steady-stingray-b51.notion.site/Overview-v0-vs-Bolt-vs-Replit-vs-Lovable-1fae91c5c2c280d5b030ce848cab3331?pvs=4
+[2025-05-22, 19:11:41] ~ Z: Roocode / Cline
+[2025-05-22, 20:10:25] ~ Ken: Firebase
+‎[2025-05-22, 20:14:45] ~ Ken: ‎image omitted
+[2025-05-22, 20:19:10] ~ Z: Yeah it’s possible
+[2025-05-22, 20:19:57] ~ G: That’s quite convincing
+‎[2025-05-22, 20:26:52] ~ Mike Chu: ‎image omitted
+[2025-05-22, 20:47:15] Daniel Cerventus Lim: I mean. She technically used an AI to mend her would in T2 hahaha 🤣
+[2025-05-22, 20:50:05] ~ Gerald Lim: ya
+[2025-05-22, 21:24:28] ~ LostDutch: Feels a bit like when internet was just becoming available and you explained your (BBS) friends the overflow of information and possibilities to be found online.....
+[2025-05-22, 22:00:31] Kristian Zwart: Anyone interested in teaming up for this Hackathon? https://www.kaggle.com/competitions/openai-to-z-challenge/overview
+[2025-05-22, 22:01:38] Kristian Zwart: I’m currently building the software to power the search, if anyone interested please DM me 🙂
+[2025-05-23, 07:40:30] ~ Jarod: Anthropic released new LLMs this morning
+https://x.com/anthropicai/status/1925591505332576377?s=48
+[2025-05-23, 09:41:58] ~ Fakhrur Razi: As I’m exploring alternatives to Lovable, I found this which may be helpful to you guys
+
+https://youtu.be/d8JTs12rxT0?si=3nNp6CFYXGGexgYP
+[2025-05-23, 09:54:23] Daniel Cerventus Lim: hahahaha that is great news
+[2025-05-23, 09:57:53] ~ Wai Hoe: hello, is the June 21st Vibe Coding meetup still on?
+[2025-05-23, 10:08:39] Daniel Cerventus Lim: Yes
+[2025-05-23, 10:08:43] ~ Raymond: sad im outstation. haih
+[2025-05-23, 10:10:04] ~ Wai Hoe: ok, coz i can't seem to respond to the event invite earlier
+[2025-05-23, 10:14:49] Melvin Lim: I've been toying with Bolt.diy. Managed to run in my docker. Connected to various LLMs including deepseek. Not very consistent. So far Gemini yields the best but still not as good as Bolt.new despite they are from the same Stackblitz company.
+[2025-05-23, 10:15:11] Melvin Lim: At least I can do vibe coding in airplanes 😂😂
+[2025-05-23, 10:17:09] Daniel Cerventus Lim: Wei. What machine you running?
+[2025-05-23, 10:17:54] Melvin Lim: Apple M1
+[2025-05-23, 10:18:27] Daniel Cerventus Lim: Love the machine. Hahaha 🤣
+[2025-05-23, 10:18:29] Tze Jin Shee: i won't use a model smaller than 14b for coding actually. plus it lack of token windows for those small model
+[2025-05-23, 10:19:19] Melvin Lim: Yes. If connect locally through Ollama and a small model it's even worse results.
+[2025-05-23, 10:31:23] Tze Jin Shee: I would recoomend u switch LM studio and MLX model
+[2025-05-23, 10:36:10] Melvin Lim: will check it out
+[2025-05-23, 11:52:57] James Yeang: FYI free agentic AI classes from Google. https://cloudonair.withgoogle.com/events/startup-school-ai-q2-2025
+[2025-05-23, 12:12:05] ~ Ken: [question] so for those of you not making agents, just using the ChatGPT.com dashboard, on the left column, is “projects” how are you guys using that?
+[2025-05-23, 12:27:42] ~ Raymond: Manage and categorize topics only
+[2025-05-23, 12:28:51] ~ G: Yes, feed with specific documents that I want him to know, so anytime gpt can refer it. The answer will be more specific and accurate that way
+[2025-05-23, 12:29:33] ~ Ken: So just file managment? I was getting so frustrated with it
+[2025-05-23, 12:30:12] ~ Ken: I thought the chats in a project would “interact”
+[2025-05-23, 12:34:10] andre: Undoubtedly the strongest feature of chatgpt right now it’s it memories features. Its ability to pull together context from all your previous chats with it makes it an ultra smart assistant. I have projects for different topics and whenever I work on these topics I always open up new chat in the said projects. It pulls together context and any custom rules and docs that you assigned only to that project topic
+[2025-05-23, 12:36:15] ~ Victor Cheong: I am using it ChatGPT projects to do this .
+
+Use Case 1 : Prompt Optimisation 
+I create a project example  prompt optimiser and upload files with guidance on prompting
+
+Use Case 2 :  Personal Planning / Personal voice 
+I create a project and include my resume / profile / my mission statement . So any prompts or research i do will focus on my personal self . Example if I want to improve my personal brand 
+
+Use Case 3
+Industry research , I put in  industry data and research and use this project folder for research . Example I download transcript from YouTube or TikTok on marketing and load it here so I have some sort of expert with focus on the area I designate
+[2025-05-23, 12:37:16] ~ Victor Cheong: For projects you can create custom instructions: I prefer Claude over ChatGPT response so I create an instruction asking the project to emulate Claude behavior
+[2025-05-23, 13:34:06] ~ Raymond: Ohh so all chats within the same projects everytime we chat they will use all assets uploaded into the multiple chats?
+[2025-05-23, 13:35:14] ~ G: U can check with ur GPT memory to see what your ai remember I think
+[2025-05-23, 13:49:15] ~ Victor Cheong: Chats within the project will refer to the documents uploaded as one of the source . 
+
+For example if you have a guideline for prompting . You can also ask to enhance the new prompt based on the guidelines you uploaded to the project 
+
+Or if you’re doing a Campaign . You can ask and evaluate versus the brand guidelines in the project
+‎[2025-05-23, 14:14:47] andre: Microsoft-backed Builder.ai collapsed after finding potentially bogus sales.pdf • ‎2 pages ‎document omitted
+[2025-05-23, 14:43:07] ~ Jin: Where can i sign up?
+[2025-05-23, 15:25:36] ~ Gerald Lim: @60164141620
+[2025-05-23, 15:26:59] Tze Jin Shee: Hi. 👋 this is Jin 2
+[2025-05-23, 15:27:50] ~ Esther: i think we are new members so we cant see it .
+[2025-05-23, 15:30:07] Tze Jin Shee: Is pinned.
+[2025-05-23, 15:34:39] ~ Jin: Yeah we can’t see it because we joined late
+[2025-05-23, 15:34:49] ATP TV: ‎ATP TV requested to join
+[2025-05-23, 15:34:53] ATP TV: ‎ATP TV joined using this group's invite link
+[2025-05-23, 15:35:39] ~ Jin: The attachment is not working for me either
+[2025-05-23, 15:37:41] Build with AI: ‎You changed the settings so only admins can edit the group settings
+[2025-05-23, 15:39:55] andre: We’ll share a Luma event link closer to the date. Next meetup is on 21 Jun. You can mark your calendar first 🗓️
+‎[2025-05-23, 21:47:29] ~ Ken: Building effective agents.pdf • ‎16 pages ‎document omitted
+‎[2025-05-23, 21:47:29] ~ Ken: chiefAIOfficer.pdf • ‎6 pages ‎document omitted
+‎[2025-05-23, 21:47:29] ~ Ken: AI in the Enterprise.pdf • ‎25 pages ‎document omitted
+‎[2025-05-23, 21:47:30] ~ Ken: a-practical-guide-to-building-agents.pdf • ‎34 pages ‎document omitted
+‎[2025-05-23, 21:47:30] ~ Ken: Are there any tricks to using gemini deep research_ _ r_GoogleGeminiAI.pdf • ‎2 pages ‎document omitted
+‎[2025-05-23, 21:47:30] ~ Ken: chiefAIOfficer.pdf • ‎6 pages ‎document omitted
+‎[2025-05-23, 21:47:31] ~ Ken: Gemini 2.pdf • ‎2 pages ‎document omitted
+‎[2025-05-23, 21:47:31] ~ Ken: GPT prompts.pdf • ‎11 pages ‎document omitted
+‎[2025-05-23, 21:47:31] ~ Ken: How I got AI to write actually good novels (hint_ it's not outlines) _ r_ChatGPTPromptGenius.pdf • ‎3 pages ‎document omitted
+‎[2025-05-23, 21:47:32] ~ Ken: How to Build a Sales Call Assistant Bot with ChatGPT Custom GPTs (Step-by-Step).pdf • ‎4 pages ‎document omitted
+‎[2025-05-23, 21:47:32] ~ Ken: How to Build AI Authority.pdf • ‎6 pages ‎document omitted
+‎[2025-05-23, 21:47:32] ~ Ken: make AI communication feel human.pdf • ‎6 pages ‎document omitted
+‎[2025-05-23, 21:47:33] ~ Ken: Prompt Engineering.pdf • ‎68 pages ‎document omitted
+‎[2025-05-23, 21:47:33] ~ Ken: The Cybernetic Teammate_HBS_2025.pdf • ‎56 pages ‎document omitted
+‎[2025-05-23, 21:47:33] ~ Ken: The Definitive Guide to AI ML Product Management.pdf • ‎17 pages ‎document omitted
+‎[2025-05-23, 21:47:34] ~ Ken: system-prompts-and-models-of-ai-tools-main.zip ‎document omitted
+[2025-05-23, 21:47:34] ~ Ken: some stuff, enjoy
+[2025-05-23, 22:21:52] ~ longlife: Question has anyone here who has experience marketing a saas product from a new product stage ?
+[2025-05-23, 22:23:01] ~ Ken: yes.
+[2025-05-23, 22:25:18] ~ longlife: Hi Ken. Any nuggets of wisdoms to share :) to get your first 10 customers
+[2025-05-23, 22:39:30] ~ longlife: My product is a property management tool for multi nation properties
+[2025-05-23, 22:39:41] ~ longlife: Multi currency
+[2025-05-23, 22:51:41] ~ longlife: There is an mvp ready pending the bug testing.
+[2025-05-23, 22:52:12] ~ longlife: It was built for 1 customer but would like to see who else it can be useful for
+[2025-05-24, 00:07:19] ~ Ken: First 10 who are strangers, go old school friend of friends, one by one, LinkedIn out reach, go to events and conferences, first few are the hardest. 
+
+If it’s built for one customer and you have revenue, reach out to VCs or investors in the space, ask them for intros to their portfolio and investments, be selective but for the right advise you can award equity on a FAST agreement
+[2025-05-24, 00:21:33] ~ Ang Soo Huey: I'm playing catch up. So much to check out. Relatives from overseas here for family reunion. Interesting stuff. Thanks for sharing.
+[2025-05-24, 00:24:11] ~ Ken: does current client have NDA non-compete or similar documents signed with you?
+[2025-05-24, 00:32:12] ~ Rehan: These are gems🙏🏼
+[2025-05-24, 00:40:41] ~ longlife: Thank you Ken
+[2025-05-24, 00:41:23] ~ longlife: I am free to sell it to whoever as a sass
+[2025-05-24, 00:45:16] ~ longlife: I forget to say strangers but thank you because that’s the key 🔑 for product market fit
+[2025-05-24, 00:50:08] ~ Ken: ok, so if you have no restrictions, find all their competitors one by one.
+[2025-05-24, 08:14:57] Daniel Cerventus Lim: https://youtube.com/shorts/eVaj8YIS0bc?si=RrO4NpOTFo6V08p8
+[2025-05-24, 08:17:50] Tze Jin Shee: and people don't believe me last time when i say don't be nice to AI :D
+[2025-05-24, 08:20:49] Daniel Cerventus Lim: If I vibe code in Cantonese la
+[2025-05-24, 10:16:36] ~ Nik Arif Izani: ‎~ Nik Arif Izani requested to join
+[2025-05-24, 10:47:44] ~ Nik Arif Izani: ‎~ Nik Arif Izani joined using this group's invite link
+[2025-05-24, 11:02:55] andre: The Way of Code | Rick Rubin https://www.thewayofcode.com/
+[2025-05-24, 11:03:09] Daniel Cerventus Lim: Nice
+[2025-05-24, 11:53:36] ~ Raymond: https://www.aicreatorpack.com/
+[2025-05-24, 12:49:32] Daniel Cerventus Lim: A lot of the stuff I want don’t have
+[2025-05-24, 12:49:34] Daniel Cerventus Lim: :(
+[2025-05-24, 12:51:36] Daniel Cerventus Lim: also, for some reason, i cant sign up this round :/
+[2025-05-24, 12:53:35] Daniel Cerventus Lim: BTW, we going to be updating our events at this event page,
+
+https://lu.ma/calendar/cal-1BvDCVBcXh34RHQ
+[2025-05-24, 12:53:43] Daniel Cerventus Lim: feel free to sub
+[2025-05-24, 12:59:38] ~ G: ‎This message was deleted.
